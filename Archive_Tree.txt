@@ -561,107 +561,65 @@
 |   |-- 20170626_Coldmirror im Interview - TINCON 2017.mkv
 |   `-- 20180211_Leben als Vorbild, Geld verdienen, YouTube-Entwicklung uvm. ｜ Coldmirror im Talk.mkv
 |-- Japanoschlampen
-|   |-- 20111201_Die Japanoschlampen und die große Klopperei - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20111203_Japanoschlampen #1 - Die große Klopperei.mkv
-|   |-- 20120105_Die Japanoschlampen und die Familienbande - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120106_Japanoschlampen #2 - Familienbande.mkv
-|   |-- 20120202_Die Japanoschlampen und der tierische Spaß  - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120203_Japanoschlampen #3 - Tierischer Spaß.mkv
-|   |-- 20120301_Die Japanoschlampen und Meister Futsis Herausforderung - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120302_Japanoschlampen #4 - Meister Futsis Herausforderung.mkv
-|   |-- 20120405_Die Japanoschlampen und die süße Rache - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120407_Japanoschlampen #5 - Süße Rache.mkv
-|   |-- 20120503_Die Japanoschlampen mit ＂Eiskalt＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120518_Japanoschlampen #6 - Eiskalt.mkv
-|   |-- 20120607_Die Japanoschlampen ＂Chao vs Mototsu＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120608_Japanoschlampen #7 - Chao VS Mototsu.mkv
-|   |-- 20120705_Die Japanoschlampen ＂Operation Shopping＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120720_Japanoschlampen #8 - Operation Shopping.mkv
-|   |-- 20120802_Die Japanoschlampen ＂Fun am Strand＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120804_Japanoschlampen #9 - Fun am Strand.mkv
-|   |-- 20120906_Die Japanoschlampen ＂Wake gibt Gas＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20120913_Japanoschlampen #10 - Wake gibt Gas!.mkv
-|   |-- 20121004_Die Japanoschlampen ＂Ein langweiliger Regentag＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20121007_Japanoschlampen #11 - Ein langweiliger Regentag.mkv
-|   |-- 20121101_Die Japanoschlampen ＂Chao ist Krank＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20121114_Japanoschlampen #12 - Chao ist krank.mkv
+|   |-- 20111201_Die Japanoschlampen #1_Große Klopperei.mkv
+|   |-- 20120105_Japanoschlampen #2 - Familienbande.mkv
+|   |-- 20120202_Japanoschlampen #3 - Tierischer Spaß.mkv
+|   |-- 20120301_Japanoschlampen #4 - Meister Futsis Herausforderung.mkv
+|   |-- 20120405_Japanoschlampen #5 - Süße Rache.mkv
+|   |-- 20120503_Japanoschlampen #6 - Eiskalt.mkv
+|   |-- 20120607_Japanoschlampen #7 - Chao VS Mototsu.mkv
+|   |-- 20120705_Japanoschlampen #8 - Operation Shopping.mkv
+|   |-- 20120802_Japanoschlampen #9 - Fun am Strand.mkv
+|   |-- 20120906_Japanoschlampen #10 - Wake gibt Gas!.mkv
+|   |-- 20121004_Japanoschlampen #11 - Ein langweiliger Regentag.mkv
+|   |-- 20121101_Japanoschlampen #12 - Chao ist krank.mkv
 |   |-- 20130206_Japanoschlampen #13 - Neue Freunde.mkv
-|   |-- 20130207_Die Japanoschlampen ＂Neue Freunde＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130307_Die Japanoschlampen ＂Ein lustiger Ausflug＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130308_Japanoschlampen #14 - Ein lustiger Ausflug.mkv
-|   |-- 20130404_Die Japanoschlampen ＂Dein Freund und Helfer＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130411_Japanoschlampen #15 - Dein Freund und Helfer.mkv
-|   |-- 20130502_Die Japanoschlampen ＂Party, Party, Party＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130510_Japanoschlampen #16 - Party Party Party!.mkv
-|   |-- 20130606_Die Japanoschlampen ＂Schatten der Vergangenheit＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130704_Die Japanoschlampen ＂Unverhofftes Wiedersehen＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130307_Japanoschlampen #14 - Ein lustiger Ausflug.mkv
+|   |-- 20130404_Japanoschlampen #15 - Dein Freund und Helfer.mkv
+|   |-- 20130502_Japanoschlampen #16 - Party Party Party!.mkv
+|   |-- 20130606_Japanoschlampen Unverhofftes Wiedersehen.mkv
 |   |-- 20130705_Japanoschlampen #17 - Schatten der Vergangenheit.mkv
 |   |-- 20130716_Japanoschlampen #18 - Unverhofftes Wiedersehen.mkv
-|   |-- 20130801_Die Japanoschlampen ＂Viel Rummel um nichts＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130804_Japanoschlampen #19 - Viel Rummel um Nichts.mkv
-|   |-- 20130905_Die Japanoschlampen ＂Stars und Sternchen＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20130907_Japanoschlampen #20 - Stars und Sternchen.mkv
+|   |-- 20130801_Japanoschlampen #19 - Viel Rummel um Nichts.mkv
+|   |-- 20130905_Japanoschlampen #20 - Stars und Sternchen.mkv
 |   |-- 20130910_Japanoschlampen EXTRA - Kjoto Hotel.mkv
-|   |-- 20131003_Die Japanoschlampen ＂Ein abgekartertes Spiel＂ - YOU FM Anime mit Coldmirror.mkv
 |   |-- 20131003_Japanoschlampen #21 - Ein abgekartetes Spiel.mkv
-|   |-- 20131107_Die Japanoschlampen ＂Ein grausamer Fluch＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20131110_Japanoschlampen #22 - Ein grausamer Fluch.mkv
-|   |-- 20131205_Die Japanoschlampen ＂Das Sportfest＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20131107_Japanoschlampen #22 - Ein grausamer Fluch.mkv
 |   |-- 20131210_Japanoschlampen EXTRA - Mazukiyamaknatschnitasawufengtongseng.mkv
-|   |-- 20140102_Die Japanoschlampen ＂GESTERN UND HEUTE＂ - YOU FM Anime mit Coldmirror.mkv
-|   |-- 20140113_Japanoschlampen #23 - Das Sportfest.mkv
+|   |-- 20140205_Japanoschlampen #23 - Das Sportfest.mkv
 |   |-- 20140215_Japanoschlampen #24 - Gestern und Heute.mkv
-|   |-- 20140607_coldmirror - Japanoschlampen bis(s) zum Morgengrauen.mkv
-|   |-- 20141003_Japanoschlampen - THE MOVIE (Das supermega mysteriöse kackgruselige Horror Abenteuer).mkv
-|   |-- 20141005_Japanoschlampen - THE MOVIE.mkv
+|   |-- 20140607_Japanoschlampen bis(s) zum Morgengrauen.mkv
+|   |-- 20141005_Japanoschlampen - THE MOVIE (Das supermega mysteriöse kackgruselige Horror Abenteuer).mkv
 |   |-- 20141016_Japanoschlampen Movie - Langweiliges alternatives Ende.mkv
-|   |-- 20141106_Die Japanoschlampen ＂Wo ist Puschi？＂.mkv
-|   |-- 20141118_Japanoschlampen #25 - Wo ist Puschi？.mkv
-|   |-- 20141204_Japanoschlampen - Es war einmal....mkv
+|   |-- 20141106_Japanoschlampen #25 - Wo ist Puschi？.mkv
+|   |-- 20141204_Japanoschlampen #26 - Es war einmal....mkv
 |   |-- 20141205_Japanoschlampen EXTRA - Ein Zuhaus für Tiere.mkv
-|   |-- 20141211_Japanoschlampen ＊EXTRA＊.mkv
-|   |-- 20141223_Japanoschlampen #26 - Es war einmal....mkv
-|   |-- 20150101_Japanoschlampen - Chao ist krank....mkv
-|   |-- 20150102_Japanoschlampen EXTRA - Knuspa Fitness.mkv
-|   |-- 20150207_Japanoschlampen - Der Einkaufsbummel.mkv
-|   |-- 20150317_Japanoschlampen #27 - Chao ist (schon wieder) krank.mkv
+|   |-- 20141211_Japanoschlampen EXTRA - Knuspa Fitness.mkv
+|   |-- 20150101_Japanoschlampen #27 - Chao ist (schon wieder) krank.mkv
+|   |-- 20150207_Japanoschlampen #28 - Einkaufsbummel.mkv
 |   |-- 20150318_Japanoschlampen EXTRA - Ninja Shotgun Gemetzel 3.mkv
-|   |-- 20150507_Japanoschlampen The Movie #2.mkv
-|   |-- 20150526_Japanoschlampen #28 - Einkaufsbummel.mkv
+|   |-- 20150507_Japanoschlampen - THE MOVIE #2 (Das ultragrausige Geheimnis der abgefuckthorrormäßigen Monsterstadt).mkv
 |   |-- 20150608_Japanoschlampen EXTRA - Man.mkv
-|   |-- 20150629_Japanoschlampen - THE MOVIE #2 (Das ultragrausige Geheimnis der abgefuckthorrormäßigen Monsterstadt).mkv
-|   |-- 20151001_Die Japanoschlampen EXTRA ＂DJ Spaß Spaß Spaß＂.mkv
-|   |-- 20151001_Die Japanoschlampen ＂Tanzball＂.mkv
-|   |-- 20151002_Japanoschlampen # 29 - Tanzball？.mkv
-|   |-- 20151006_Japanoschlampen EXTRA - DJ Spassspassspass.mkv
-|   |-- 20151105_Die Japanoschlampen EXTRA ＂yumgum＂.mkv
-|   |-- 20151105_Die Japanoschlampen ＂Der Ring＂.mkv
-|   |-- 20151124_Japanoschlampen #30 - Ein Ring sie zu knechten.mkv
+|   |-- 20151001_Japanoschlampen # 29 - Tanzball？.mkv
+|   |-- 20151001_Japanoschlampen EXTRA - DJ Spassspassspass.mkv
+|   |-- 20151105_Japanoschlampen #30 - Ein Ring sie zu knechten.mkv
 |   |-- 20151127_Japanoschlampen EXTRA - Yumgum.mkv
-|   |-- 20151204_Die Japanoschlampen ＂Gute Miene zum bösen Spiel＂.mkv
-|   |-- 20160107_Die Japanoschlampen ＂Chaos Berufung＂.mkv
-|   |-- 20160115_Japanoschlampen #31 - Gute Miene zum bösen Spiel.mkv
-|   |-- 20160205_Die Japanoschlampen ＂Durch den Spiegel＂.mkv
-|   |-- 20160206_Die Japanoschlampen EXTRA ＂Gedärme Gemetzel Girl＂.mkv
-|   |-- 20160303_Japanoschlampen The Movie #3.mkv
-|   |-- 20160330_Japanoschlampen #32 - Chao's Berufung.mkv
+|   |-- 20151204_Japanoschlampen #31 - Gute Miene zum bösen Spiel.mkv
+|   |-- 20160107_Japanoschlampen #32 - Chao's Berufung.mkv
+|   |-- 20160205_Japanoschlampen #33 - Durch den Spiegel.mkv
+|   |-- 20160206_Japanoschlampen EXTRA - GedärmeGemetzelGirl.mkv
+|   |-- 20160303_Japanoschlampen - THE MOVIE #3 (Das intergalaktische Gruselrätsel auf der scheißschauerlichen Farm).mkv
 |   |-- 20160402_Japanoschlampen EXTRA - Beruf-o-mat.mkv
-|   |-- 20160726_Japanoschlampen #33 - Durch den Spiegel.mkv
-|   |-- 20160727_Japanoschlampen EXTRA - GedärmeGemetzelGirl.mkv
-|   |-- 20160923_Japanoschlampen - THE MOVIE #3 (Das intergalaktische Gruselrätsel auf der scheißschauerlichen Farm).mkv
 |   |-- 20171109_StarStarSpace #23⧸Japanoschlampen #34 - Die verschollene Episode.mkv
 |   |-- 20190328_Japanoschlampen #35 - Alte und neue Rivalen.mkv
-|   |-- 20190329_Japanoschlampen #35 - Alte und neue Rivalen.mkv
 |   |-- 20190620_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
-|   |-- 20190621_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
 |   |-- 20191129_Japanoschlampen #37 - Wo ist Puschi schon wieder？.mkv
 |   |-- 20200313_Japanoschlampen #38 - Das Straßenfest.mkv
 |   |-- 20200525_Japanoschlampen #39 - Die Vertretung.mkv
 |   |-- 20201002_Japanoschlampen #40 - Geisterstunde in der Schule.mkv
 |   |-- 20201030_Japanoschlampen #41 - Albtraum an Halloween.mkv
 |   |-- 20211001_Japanoschlampen #42 - Mysterium in der Bibliothek (Teil 1).mkv
-|   |-- 20211109_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
-|   `-- 20211112_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
+|   `-- 20211109_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
 |-- Kacke Übersetze Film⁄ Videosoiel-Titel
 |   |-- 20171120_Kacke übersetzte Filmtitel.mkv
 |   |-- 20180418_Kacke übersetzte Filmtitel #2.mkv
