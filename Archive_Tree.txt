@@ -1,0 +1,1350 @@
+.
+|-- 5 Minuten Harry Podcast
+|   |-- 5 Minuten Harry Podcast #10_Hut Braucht eine Umarmung.mkv
+|   |-- 5 Minuten Harry Podcast #11_Nicht Bummeln!.mkv
+|   |-- 5 Minuten Harry Podcast #12_Planet der Affen.mkv
+|   |-- 5 Minuten Harry Podcast #13_Ich Sehe Dunkelheit.mkv
+|   |-- 5 Minuten Harry Podcast #14_Drogen Sex Gewalt.mkv
+|   |-- 5 Minuten Harry Podcast #15_Fruchtgemüse.mkv
+|   |-- 5 Minuten Harry Podcast #16_Gefährlich aber Dämlich.mkv
+|   |-- 5 Minuten Harry Podcast #17 - Ein faires schönes Quidditch.mkv
+|   |-- 5 Minuten Harry Podcast #18 - Popobums.mkv
+|   |-- 5 Minuten Harry Podcast #19 - Gebrauche ihn klug.mkv
+|   |-- 5 Minuten Harry Podcast #1 - Was heißt eigentlich Liguster？.mkv
+|   |-- 5 Minuten Harry Podcast #20 - Nerhegeb.mkv
+|   |-- 5 Minuten Harry Podcast #21 - Statisch nicht ganz in Ordnung.mkv
+|   |-- 5 Minuten Harry Podcast #22 - Gibt das Ärger？.mkv
+|   |-- 5 Minuten Harry Podcast #23 - Beef im Wald.mkv
+|   |-- 5 Minuten Harry Podcast #24 - Hedwig tries a coke.mkv
+|   |-- 5 Minuten Harry Podcast #25 - Tiny Harp.mkv
+|   |-- 5 Minuten Harry Podcast #26 - Es ist zu einfach.mkv
+|   |-- 5 Minuten Harry Podcast #27 - Schachmatt.mkv
+|   |-- 5 Minuten Harry Podcast #28 - und ein Stein..mkv
+|   |-- 5 Minuten Harry Podcast #29 - Get Well Soon.mkv
+|   |-- 5 Minuten Harry Podcast #2 - Zu viel Geschenkpapier!.mkv
+|   |-- 5 Minuten Harry Podcast #3 - Eulen. Eulen everywhere..mkv
+|   |-- 5 Minuten Harry Podcast #4 - Besoffener Schweinestall.mkv
+|   |-- 5 Minuten Harry Podcast #5 - Soup Soup Soup.mkv
+|   |-- 5 Minuten Harry Podcast #6 - Zauberstab Stauberstab.mkv
+|   |-- 5 Minuten Harry Podcast #7 - Eibenholz und Butzenscheiben.mkv
+|   |-- 5 Minuten Harry Podcast #8 - Wir hätten gern alles.mkv
+|   |-- 5 Minuten Harry Podcast #9.mkv
+|   `-- 5 Minuten und 36 Sek Harry Podcast #30 - I'll stand by you always.mkv
+|-- Achtung Illegal
+|   |-- 20110901_Achtung, illegal! #2- YOU FM Commcercial mit Coldmirror.mkv
+|   |-- 20110901_Achtung, illegal! #3 - YOU FM Commcercial mit Coldmirror.mkv
+|   |-- 20110901_Achtung, illegal! #4 - YOU FM Commcercial mit Coldmirror.mkv
+|   `-- 20110901_Achtung, illegal! #5 - YOU FM Commcercial mit Coldmirror.mkv
+|-- Bubbles
+|   |-- Abschlussball Outfit - BUBBLES： Meine Story mit Coldmirror.mp4
+|   |-- Alleinsein genießen - BUBBLES： Corona-Talk mit Coldmirror.mp4
+|   |-- Berufe_von_Youtube_raten_-_BUBBLES_mit_Coldmirror_Simon_Will_KostasKind_und_Franca_3840x2160[01KXQM780T1TBTAJ76RJ14WJ21].mp4
+|   |-- Bin_ich_ein_schlechter_Freund_mit_Coldmirror_Ari_Marc_von_Das_schaffst_du_nie_und_Franca_3840x2160[01KXQM47Y4EQK1MES88XCRV04D].mp4
+|   |-- Bin_ich_zu_fett_-_BUBBLES_mit_Coldmirror_World_Wide_Wohnzimmer_Jacko_Wusch_und_Simon_Will_3840x2160[01KXQM4R459V25CRK3HM8YQFFM].mp4
+|   |-- BUBBLES_-_Vorbilder_Helden_Idole_mit_Coldmirror_Simon_Will_und_Franca_iam.serafina_3840x2160[01KXQNDXEA3W78BVHEE3TRF2ET].mp4
+|   |-- BUBBLES_-_Wir_sind_funk_1920x1080[01KXQKZM36F9VS6BS93M6RKEX0].mp4
+|   |-- Cybermobbing_-_BUBBLES_3840x2160[01KXQM2G81A5BE590TGVK5AB57].mp4
+|   |-- Ekliges_Essen_-_BUBBLES_mit_Coldmirror_Simon_Will_Franca_iam.serafina_DSDN_KostasKind_3840x2160[01KXQNFMTWHV7QK7WMEG89YX95].mp4
+|   |-- Entweder...Oder_-_1_4_BUBBLES_1920x1080[01KXQM0YQSSHM2AMHV983PWENK].mp4
+|   |-- Entweder...Oder_-_2_4_BUBBLES_1920x1080[01KXM8PQJZA04KF1GM5ST7G5Q9].mp4
+|   |-- Entweder...Oder_-_3_4_BUBBLES_1920x1080[01KXM8X6P1EBAA4FHCAK4FJYEK].mp4
+|   |-- Entweder...Oder_-_4_4_BUBBLES_1920x1080[01KXM8FP3J7W24QRSGHJTBYR5B].mp4
+|   |-- Habt_Ihr_einen_Lehrer_als_Vorbild_-_BUBBLES_mit_Coldmirror_Simon_Will_und_Franca_3840x2160[01KXQM7SWWXW1DWV4XKHFJMYH8].mp4
+|   |-- Handyverbot_an_der_Schule_-_BUBBLES_mit_Coldmirror_Annikazion_KostasKind_Simon_Will_Mynoupa_1920x1080[01KXQM54QDGAKVKHYRA846PQBV].mp4
+|   |-- HILFE_PICKEL_BUBBLES_mit_Coldmirror_Simon_Will_und_Franca_iam.serafina_1920x1080[01KXMA1T8QAVBDXE29M3WZY8D4].mp4
+|   |-- Ich_trinke_keinen_Alkohol_mehr_-_und_alles_hassen_es_1920x1080[01KXQM3H7MVXMXWE65SKCK95Q8].mp4
+|   |-- In_Anime_Charakter_verliebt_-_was_tun_1920x1080[01KXQM20R02XA06WSA3PA6FNA2].mp4
+|   |-- Intim-Rasur_-_Muss_ich_mich_rasieren_-_BUBBLES_1920x1080[01KXM8C5Z7N974T39NFDD5EYHD].mp4
+|   |-- Kein_Bock_auf_nix_-_BUBBLES_mit_Coldmirror_Simon_Will_KostasKind_und_Franca_3840x2160[01KXQM6J8XB014GBMGAJJJEKRC].mp4
+|   |-- Konflikte_in_der_Schule_-_Lehrerspruche_bei_BUBBLES_1920x1080[01KXM8E8M1T9BYT368EHFZNV58].mp4
+|   |-- Kranke Eltern oder Geschwister - BUBBLES mit Coldmirror, DSDN & Kostas Kind.mp4
+|   |-- Lampenfieber_bekampfen_-_BUBBLES_-_Experten-Tipps_von_Hannah_1920x1080[01KXM8RNV1WBJNAXZTVYSDPXBG].mp4
+|   |-- Lehrer_mobbt_Schuler_-_was_tun_-_BUBBLES_1920x1080[01KXQM0G746Q65Y528S0MVWK7J].mp4
+|   |-- Mein_Lehrer_ist_voll_ungerecht_-_BUBBLES_mit_DSDN_Coldmirror_und_Kostas_Kind_1920x1080[01KXQM5MHSF2K02BZFMR68X8YZ].mp4
+|   |-- Mobbing_im_Klassen-Chat_-_BUBBLES_mit_Coldmirror_Annikazion_KostasKind_Simon_Will_Mynoupa_1920x1080[01KXQNC84XQY5TN1PGXDG1GFVK].mp4
+|   |-- Online_neue_Freunde_finden_-_Tipps_-_BUBBLES_1920x1080[01KXM93PDM5DG75R2V1FRSKPDT].mp4
+|   |-- Schminken_-_BUBBLES_mit_Coldmirror_Ari_und_Marc_von_Das_schaffst_du_nie_und_Franca_3804x2160[01KXQNF6D3KYBFAH0M7SDQ5XB2].mp4
+|   |-- So_real_ist_Instagram_-_BUBBLES_1920x1080[01KXM8WAMC7DHM9YQ6AD4DE66V].mp4
+|   |-- Spicken_in_der_Schule_-_BUBBLES_mit_Coldmirror_Simon_Will_und_KostasKind_3840x2160[01KXQNESX3KMBEZA3MT1J9QS6B].mp4
+|   |-- Stress_in_der_Schule_-_BUBBLES_mit_Coldmirror_Simon_Will_Franca_und_KostasKind_3840x2160[01KXMA9GFZHY9ABSE1039QQNEJ].mp4
+|   |-- Tipps_Gegen_Langeweile_In_Den_Corona_Ferien_-_BUBBELS_mit_Coldmirror_1920x1080[01KXM9PER9E0F0MKQZDCG72XBJ].mp4
+|   |-- Verliebt_in_meinen_Lehrer_-_Coldmirror_packt_aus_1920x1080[01KXMAA0EP6VDV91CH9AV5EYE4].mp4
+|   |-- Was_bedeuten_meine_Traume_So_deutet_Coldmirror_ihre_Traume_1920x1080[01KXMA3JKQ852Y3721RT4RKANC].mp4
+|   |-- YouTuber_als_Beruf_1_-_BUBBLES_mit_Coldmirror_World_Wide_Wohnzimmer_Simon_Will_und_KostasKind_3840x2160[01KXM9RTGPPPK4DDXAEWW4Z0N9].mp4
+|   `-- ZIGARETTEN_-_BUBBLES_mit_Coldmirror_Simon_Will_Franca_iam.serafina_und_KostasKind_3840x2160[01KXQND028V8RTEZ09APF4PFBV].mp4
+|-- Coldmirror's Cooking Corner
+|   |-- 20140827_Coldmirrors Cooking Corner  Kaddi und Süßi Soße.mkv
+|   |-- 20211028_Coldmirror's Cooking Corner - Eldritch Abomination Krispie Treats.mkv
+|   |-- 20211206_Coldmirror's Cooking Corner - Hagrids Felsenkekse.mkv
+|   `-- 20221121_Coldmirror's Cooking Corner - Zaubertrank.mkv
+|-- commercial
+|   |-- 20110706_Der Nerd-Suit - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20110804_Nerd Travel-TV ＂Draußen＂ (Multiplayer) - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20110804_Nerd Travel-TV ＂Draußen＂ - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20110901_Achtung, illegal! #1 - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20111201_Nerd-Talk - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120105_Trinkkäse - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120202_KurtMüller - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120301_Der Movie-Sound-Macher - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120405_Fleckweg 12.000 - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120607_Hatebook - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120705_Hauptsache BIO - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120802_Die Zukunft liest Zeitung! - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20120906_Fleischgemüse - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20121004_Schleim! - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20121101_Power Pussy Trainer Deluxe - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130307_Heiße Nerds live 2 - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130307_Heiße Nerds live - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130404_Der Nerdmaker deluxe - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130606_Wir nennen es WASSER! - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130704_Trockenes altes Brot - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20130801_NERDDOOR - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20131107_FLECK BANG - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20131205_Molly Cocktail - YOU FM Commercial mit Coldmirror.mkv
+|   |-- 20141205_＊＊＊ NEU ＊＊＊ Coldmirror Commercial.mkv
+|   |-- Der Movie-Sound-Macher - YOU FM Commercial mit Coldmirror.mkv
+|   |-- Der Nerd-Suit - YOU FM Commercial mit Coldmirror.mkv
+|   |-- Fleckweg 12.000 - YOU FM Commercial mit Coldmirror.mkv
+|   |-- KurtMüller - YOU FM Commercial mit Coldmirror.mkv
+|   |-- Nerd-Talk - YOU FM Commercial mit Coldmirror.mkv
+|   |-- Nerd Travel-TV ＂Draußen＂ (Multiplayer) - YOU FM Commercial mit Coldmirror.mkv
+|   |-- Nerd Travel-TV ＂Draußen＂ - YOU FM Commercial mit Coldmirror.mkv
+|   `-- Trinkkäse - YOU FM Commercial mit Coldmirror.mkv
+|-- Date Tape
+|   |-- 20150207_DATE TAPE - DIE PARTNERBÖRSE.mkv
+|   `-- 20160109_Date Tape „Hauke“ mit Coldmirror.mkv
+|-- Divers
+|   |-- 20110822_Coldmirror auf der Gamescom ｜ YOU FM.mkv
+|   |-- 20111130_Coldmirror Videowettbewerb - Meine Ausbildung.mkv
+|   |-- 20111201_Neil Ciciegera - YOUFM Favs mit Coldmirror.mkv
+|   |-- 20120301_Arwen aus Herr der Ringe - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20120503_Hermine Granger aus Harry Potter - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20120705_Prinzessin Leia - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20121004_Spastro TV - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20121101_Watching HarRING Potter - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20130307_Das Leben der Superreichen - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20130802_Der Umzug - Coldmirror muss raus.mkv
+|   |-- 20131004_Unser trautes Heim - Coldmirrors Schreckens-WG.mkv
+|   |-- 20131107_Jurassic Park - Die Entdeckung!.mkv
+|   |-- 20141111_Coldmirror - Der Superstern.mkv
+|   |-- 20141205_Coldmirror aka Cooly McHammerdose.mkv
+|   |-- 20150104_Coldmirror in ＊ Romanze und Karriere ＊.mkv
+|   |-- 20151108_Rentner Extreme Sports mit Coldmirror ｜ YOU FM.mkv
+|   |-- Coldmirror Videowettbewerb - Meine Ausbildung.mp4
+|   |-- Hermine Granger aus Harry Potter - Coldmirrors Cut mit YOU FM.mkv
+|   `-- Neil Ciciegera - YOUFM Favs mit Coldmirror.mkv
+|-- Diverse Kack Produktbeschreibungen
+|   |-- 20180105_Kack Produktbeschreibung - Harry Potter Schokofrosch.mkv
+|   |-- 20180117_Kack Produktbeschreibung - 'N Verlore Verstand.mkv
+|   |-- 20180131_Kack Produktbeschreibung - Digitalwecker.mkv
+|   |-- 20180522_Kack Produktbeschreibung - Mitesser Entferner.mkv
+|   |-- 20181106_Kack Produktbeschreibung - Deko Schädel.mkv
+|   |-- 20190115_Merkwürdiges Dankschreiben.mkv
+|   |-- 20190214_Kack Produktbeschreibung - Harry Potter Deko.mkv
+|   |-- 20191015_Kack Produktbeschreibung - Jumanji.mkv
+|   |-- 20191029_Diverse Kack Produktbeschreibungen #1_Aufmerksamkeitsgrabscher.mkv
+|   |-- 20200918_Diverse Kack Produktbeschreibungen #2_Verstopfung.mkv
+|   |-- 20201113_Diverse Kack Produktbeschreibungen #3_Groß für Partei.mkv
+|   |-- 20210226_Diverse Kack Produktbeschreibungen #4_Dünne Deine Arme.mkv
+|   |-- 20210409_Diverse Kack Produktbeschreibungen #5_Schlampigen Look.mkv
+|   |-- 20210505_Diverse Kack Produktbeschreibungen #6_Schnitzel und Schnitzel.mkv
+|   |-- 20210830_Diverse Kack Produktbeschreibungen #7_Männerbröttchen.mkv
+|   |-- 20210915_Diverse Kack Produktbeschreibungen #8_Ein Echter Hingucker.mkv
+|   |-- 20211014_Diverse Kack Produktbeschreibungen #9_Es ist Amazing.mkv
+|   |-- 20211118_Diverse Kack Produktbeschreibungen #10_Dickdarmhahn.mkv
+|   |-- 20220228_Diverse Kack Produktbeschreibungen #11Die Frische der Katze.mkv
+|   |-- 20220321_Diverse Kack Produktbeschreibungen #12_Supergeil.mkv
+|   |-- 20220502_Diverse Kack Produktbeschreibungen #13_Netter Kleiner Schwanz.mkv
+|   |-- 20220810_Diverse Kack Produktbeschreibungen #14_Qualität.mkv
+|   |-- 20220920_Diverse Kack Produktbeschreibungen #15_Nippel.mkv
+|   |-- 20221101_Diverse Kack Produktbeschreibungen #16_Poo-Loch.mkv
+|   |-- 20230306_Diverse Kack Produktbeschreibungen #17_Turbo Turbo.mkv
+|   |-- 20230418_Diverse Kack Produktbeschreibungen #18_Drachenzäpfchen.mkv
+|   |-- 20230509_Diverse Kack Produktbeschreibungen #19_Roar.mkv
+|   |-- 20230530_Diverse Kack Produktbeschreibungen #20_Hübsche Füße.mkv
+|   |-- 20230821_Diverse Kack Produktbeschreibungen #21_Marmeladenschleifmashine.mkv
+|   |-- 20231016_Diverse Kack Produktbeschreibungen #22_Tunderkortengeschmack.mkv
+|   |-- 20240221_Diverse Kack Produktbeschreibungen #23_Elch Dicht.mkv
+|   |-- 20240320_Diverse Kack Produktbeschreibungen #24_Umarme das Chaos.mkv
+|   |-- 20240416_Diverse Kack Produktbeschreibungen #25_Perfekt Gestresst.mkv
+|   |-- 20240515_Diverse Kack Produktbeschreibungen #26_Bruste werden beschleunigt.mkv
+|   |-- 20240612_Diverse Kack Produktbeschreibungen #27_Don't Forget.mkv
+|   |-- 20240708_Diverse Kack Produktbeschreibungen #28_Große Platzwunde.mkv
+|   |-- 20240926_Diverse Kack Produktbeschreibungen #29_Oberschenkelfleischqualitat.mkv
+|   |-- 20241119_Diverse Kack Produktbeschreibungen #30_Echte Venen.mkv
+|   |-- 20250325_Diverse Kack Produktbeschreibungen #31_Informationen zum Tod.mkv
+|   |-- 20250520_Diverse Kack Produktbeschreibungen #32_Du schallst das.mkv
+|   |-- 20250923_Diverse Kack Produktbeschreibungen #33_Urlaulbsplanung begjimen.mkv
+|   |-- 20251119_Diverse Kack Produktbeschreibungen #34_Normal Bleiben.mkv
+|   |-- 20260324_Diverse Kack Produktbeschreibungen #35_Warum Gibt'sImmer.mkv
+|   `-- 20260416_Kack Produktbeschreibungen - Gemütliches Zeug.mkv
+|-- Drawn Dreams
+|   |-- 20151019_Drawn Dreams #1 - Einstein.mkv
+|   |-- 20151109_Drawn Dreams ＂Maya-Tempel＂ mit Coldmirror ｜ YOU FM.mkv
+|   |-- 20151205_Drawn Dreams ＂Flugzeug＂.mkv
+|   |-- 20160124_Drawn Dreams #3 - Flugzeug.mkv
+|   |-- 20160419_Drawn Dreams #4 - Akte X.mkv
+|   |-- 20160710_Drawn Dreams #5 - Teeniehorror.mkv
+|   |-- 20180227_Drawn Dreams #6 - Queen Park.mkv
+|   |-- 20180606_Drawn Dreams #7 - Zombieapokalypse.mkv
+|   |-- 20190605_Drawn Dreams #8 - Abenteuerpfad.mkv
+|   |-- 20190820_Drawn Dreams #9 - Hund.mkv
+|   |-- 20200903_Drawn Dreams #10 - Battle Royale.mkv
+|   `-- 20201015_Drawn Dreams #11 - Schattengestalt.mkv
+|-- Film Zitate & Google Übersetzer
+|   |-- 20200326_Filmzitate & Google Übersetzer.mkv
+|   |-- 20200508_Total inspirierende Zitate & Google Übersetzer.mkv
+|   `-- 20210518_Filmzitate & Google Übersetzer #2.mkv
+|-- Fresh D
+|   |-- 20080817_Fresh D. - Benjamin B. (by ChipnChap).mkv
+|   |-- 20080817_Fresh D. - fLiTwIcK nAzIsChWeIn.mkv
+|   |-- 20080817_Fresh D. - Hoffentlich geschieht den Kidz nichts [Version 1].mkv
+|   |-- 20080817_Fresh D. - Hoffentlich geschieht den Kidz nichts [Version 2].mkv
+|   |-- 20080817_Fresh D. - Hörgerät.mkv
+|   |-- 20080817_Fresh D. - Stuhlgang.mkv
+|   |-- 20080817_Stay Fresh, Stay Dumb!.mkv
+|   |-- 20080819_Fresh D. - Back from the Underground.mkv
+|   |-- 20080819_Fresh D. - Bibi's Block (by ChipnChap).mkv
+|   |-- 20080819_Fresh D. - Der rappende Hut (feat. Rapping Hat).mkv
+|   |-- 20080819_Fresh D. - OhrenPopelKotze.mkv
+|   |-- 20080819_Fresh D. - Snape, du Bitch!.mkv
+|   |-- 20080819_Fresh D. - Wo's mein Hörgerät？.mkv
+|   |-- 20080819_Underground.mkv
+|   |-- 20080821_Dumbledore's Army.mkv
+|   |-- 20080821_Fresh D. - Begrüßungs Rap.mkv
+|   |-- 20080821_Fresh D. - Beruhigungs Rap.mkv
+|   |-- 20080821_Fresh D. - Dumbi vs. Voldi.mkv
+|   |-- 20080821_Fresh D. - Dumbledore ist bei dir.mkv
+|   |-- 20080821_Fresh D. - Inkontinenz.mkv
+|   |-- 20080821_Fresh D. - Nerhegeb.mkv
+|   |-- 20080821_Fresh D. - Neville Theme.mkv
+|   |-- 20080821_Fresh D. - Verabschiedungs Rap.mkv
+|   |-- 20080821_Fresh D. - Yo, Harry wie geht es dir.mkv
+|   |-- 20080822_Fresh D. - Datwuzzfresh.mkv
+|   |-- 20080822_Fresh D. - f.r.e.s.h.d.u.m.b.l.e.d.o.r.e..mkv
+|   |-- 20080822_Fresh D. - Fresh Dumbledore Remix.mkv
+|   |-- 20080822_Fresh D. - Go Go Pussy Rangerz Theme.mkv
+|   |-- 20080822_Fresh D. - Großmutterficker.mkv
+|   |-- 20080822_Fresh D. - Harrys komplett bescheuertes Lied.mkv
+|   |-- 20080822_Fresh D. - Potter stinkt (Chim Chiminey).mkv
+|   |-- 20080822_Fresh D. - Wenn du denkst (ft. Hermine G.).mkv
+|   |-- 20080822_Großmutterficker.mkv
+|   |-- 20080823_Audiovergewaltigung 1⧸2.mkv
+|   |-- 20080823_Audiovergewaltigung 2⧸2.mkv
+|   |-- 20080823_Fresh D. - Alles für die Kidz.mkv
+|   |-- 20080823_Fresh D. - Feines Schwein.mkv
+|   |-- 20080823_Fresh D. - Ficken (by Hermine G.).mkv
+|   |-- 20080823_Fresh D. - Fischstäbchen (ft. Mongo Oma).mkv
+|   |-- 20080823_Fresh D. - Halt die Fresse, Hagrid.mkv
+|   |-- 20080823_Fresh D. - Liebesscheiße.mkv
+|   |-- 20080823_Fresh D. - MCV vs. Harry P. (by MCV, Harry P.).mkv
+|   |-- 20080823_Fresh D. - Wikipedia  (ft. Hermine G.).mkv
+|   |-- 20080823_Fresh D. - Wixxer (by Hermine G.).mkv
+|   |-- 20080824_Fresh D. - Büroeingang.mkv
+|   |-- 20080824_Fresh D. - Ein Jahr ist vorüber FS.mkv
+|   |-- 20080824_Fresh D. - FDFSshit.mkv
+|   |-- 20080824_Fresh D. - FGDN Cover (by ChipnChap).mkv
+|   |-- 20080824_Fresh D. - Klärchenbärchen.mkv
+|   |-- 20080824_Fresh D. - Klärchen FS.mkv
+|   |-- 20080824_Fresh D. - Lied vom Inhalt.mkv
+|   |-- 20080824_Fresh D. - Naturtalent FS.mkv
+|   |-- 20080824_Fresh D. - Neulich im Büro 1⧸2.mkv
+|   |-- 20080824_Fresh D. - Neulich im Büro 2⧸2.mkv
+|   |-- 20080824_Fresh D. - Phoenix FS.mkv
+|   |-- 20080824_Fresh D. - Post für mich FS.mkv
+|   |-- 20080824_Fresh D. - Post für mich Remixed.mkv
+|   |-- 20080824_Fresh D. - Satanistdiss FS.mkv
+|   |-- 20080824_Fresh D. - Vagabundiertenhiphop.mkv
+|   |-- 20081119_Post für mich 1⧸2.mkv
+|   |-- 20081119_Post für mich 2⧸2.mkv
+|   |-- 20081217_Fresh D. - Bang Bang.mkv
+|   |-- 20081217_Fresh D. - Dringend auf Klo (Probe) (Honkong Mietwohnung).mkv
+|   |-- 20081217_Fresh D. - Echt Stil.mkv
+|   |-- 20081217_Fresh D. - FD und seine Homies.mkv
+|   |-- 20081217_Fresh D. - Im Studio mit Ron (mit Ron).mkv
+|   |-- 20081217_Fresh D. - In der Weihnachtsbäckerei (ft. Ron Zuckowski).mkv
+|   |-- 20081217_Fresh D. - Mein Fleisch (ft. Herminge G.).mkv
+|   |-- 20081217_Fresh D. - Partytrack.mkv
+|   |-- 20081217_Fresh D. - Plastik Pokal Theme.mkv
+|   |-- 20081217_Fresh D. - Pussy Rangerz Theme 2008 (aequitaS ft. coldmirror).mkv
+|   |-- 20081217_Fresh D. - Tubal Uriah Butler.mkv
+|   |-- 20081217_Fresh D. - Xtreme Dumbledore (by aequitaS).mkv
+|   |-- 20081217_Tubal Uriah Butler 1⧸3.mkv
+|   |-- 20081217_Tubal Uriah Butler 2⧸3.mkv
+|   |-- 20081217_Tubal Uriah Butler 3⧸3.mkv
+|   |-- 20081217_Tubal Uriah Butler Outtakes.mkv
+|   |-- 20081226_F.R.E.S.H.D.U.M.B.L.E.D.O.R.E.mkv
+|   |-- 20081226_Fresh Dumbledore Tubal Uriah Butler.mkv
+|   |-- 20081229_Fresh Dumbledore Partytrack.mkv
+|   |-- 20090103_Dumbi vs Voldi.mkv
+|   |-- 20090103_Fresh Dumbledore Alles für die Kidz.mkv
+|   |-- 20090103_Fresh Dumbledore Back from the underground.mkv
+|   |-- 20090103_Fresh Dumbledore Bang Bang.mkv
+|   |-- 20090103_Fresh Dumbledore Bibi´s Block.mkv
+|   |-- 20090103_Fresh Dumbledore Büroeingang.mkv
+|   |-- 20090103_Fresh Dumbledore Datwuzzfresh.mkv
+|   |-- 20090103_Fresh Dumbledore Der rappende Hut.mkv
+|   |-- 20090103_Fresh Dumbledore Dringend aufs klo.mkv
+|   |-- 20090103_Fresh Dumbledore Dumbledore ist bei dir.mkv
+|   |-- 20090103_Fresh Dumbledore Echt Stil.mkv
+|   |-- 20090103_Fresh Dumbledore Ein Jahr ist vorüber.mkv
+|   |-- 20090103_Fresh Dumbledore FDFSshit.mkv
+|   |-- 20090103_Fresh Dumbledore feat. Hermine G. Wenn du denkst.mkv
+|   |-- 20090103_Fresh Dumbledore Feines Schwein.mkv
+|   |-- 20090103_Fresh Dumbledore FGDN Cover.mkv
+|   |-- 20090103_Fresh Dumbledore Ficken.mkv
+|   |-- 20090103_Fresh Dumbledore Fick Fick Fick.mkv
+|   |-- 20090103_Fresh Dumbledore Fischstäbchen.mkv
+|   |-- 20090103_Fresh Dumbledore Go Go Pussy Rangerz Theme.mkv
+|   |-- 20090103_Fresh Dumbledore Grossmutterficker.mkv
+|   |-- 20090103_Fresh Dumbledore Halt die Fresse Hagrid.mkv
+|   |-- 20090103_Fresh Dumbledore Harrys komplett bescheuertes Lied.mkv
+|   |-- 20090103_Fresh Dumbledore Im Studio mit Ron.mkv
+|   |-- 20090103_Fresh Dumbledore In der Weihnachtsbäckerei.mkv
+|   |-- 20090103_Fresh Dumbledore Inkontinenz.mkv
+|   |-- 20090103_Fresh Dumbledore Klärchenbärchen.mkv
+|   |-- 20090103_Fresh Dumbledore Klärchen.mkv
+|   |-- 20090103_Fresh Dumbledore Liebesscheisse.mkv
+|   |-- 20090103_Fresh Dumbledore Lied vom Inhalt.mkv
+|   |-- 20090103_Fresh Dumbledore Mein Fleisch.mkv
+|   |-- 20090103_Fresh Dumbledore Nerhegeb.mkv
+|   |-- 20090103_Fresh Dumbledore Neville Theme.mkv
+|   |-- 20090103_Fresh Dumbledore OhrenPopelKotze.mkv
+|   |-- 20090103_Fresh Dumbledore Plastik Pokal Theme.mkv
+|   |-- 20090103_Fresh Dumbledore Potter stinkt (Chim chiminey).mkv
+|   |-- 20090103_Fresh Dumbledore Pussy Rangerz Theme 2008.mkv
+|   |-- 20090103_Fresh Dumbledore Remix.mkv
+|   |-- 20090103_Fresh Dumbledore Snape du Bitch.mkv
+|   |-- 20090103_Fresh Dumbledore Tubal Uriah Butler Outtakes.mkv
+|   |-- 20090103_Fresh Dumbledore Underground.mkv
+|   |-- 20090103_Fresh Dumbledore Verabschiedungs Rap.mkv
+|   |-- 20090103_Fresh Dumbledore Wikipedia.mkv
+|   |-- 20090103_Fresh Dumbledore Wixxer.mkv
+|   |-- 20090103_Fresh Dumbledore Xtreme Dumbledore.mkv
+|   |-- 20090103_Fresh Dumbledore Yo Harry wie gehts dir.mkv
+|   |-- 20090103_Fresh Dumbledre Beruhigungs Rap.mkv
+|   |-- 20090103_Fresh D und seine Homies.mkv
+|   |-- 20090103_MC V vs Harry P.mkv
+|   |-- 20090103_Naturtalent.mkv
+|   |-- 20090103_Neulich im Büro Teil 1.mkv
+|   |-- 20090104_Fresh D Special Benjamin B feat Chipchap.mkv
+|   |-- 20090104_Fresh Dumbledore fitwick killallnazis.mkv
+|   |-- 20090104_Fresh Dumbledore Hoffentlich mouth2mouth.mkv
+|   |-- 20090104_Fresh Dumbledore hoffentlich oldskool.mkv
+|   |-- 20090104_Fresh Dumbledore Hörgerät acid.mkv
+|   |-- 20090104_Fresh Dumbledore Neulich im Büro Teil 2.mkv
+|   |-- 20090104_Fresh Dumbledore Phoenix.mkv
+|   |-- 20090104_Fresh Dumbledore Post für mich.mkv
+|   |-- 20090104_Fresh Dumbledore Satanistdiss.mkv
+|   |-- 20090104_Fresh Dumbledore Stuhlgang Oldskool.mkv
+|   |-- 20090104_Fresh Dumbledore Vagabundiertenhiphop.mkv
+|   |-- 20110713_Dumblecore 1⧸2.mkv
+|   |-- 20110713_Dumblecore 2⧸2.mkv
+|   |-- 20110713_Dumblecore bonus shice.mkv
+|   |-- 20110713_Fresh D. - Attack of the Tromaggot.mkv
+|   |-- 20110713_Fresh D. - Back to the Roots.mkv
+|   |-- 20110713_Fresh D. - Dicke Muddaliebe (feat. Sönke alias DirtyKingBalla).mkv
+|   |-- 20110713_Fresh D. - Die Milch machts Megamix (feat. Robert Prime).mkv
+|   |-- 20110713_Fresh D. - Fresh (by SoundRevolution).mkv
+|   |-- 20110713_Fresh D. - Ich schlafe nie wieder.mkv
+|   |-- 20110713_Fresh D. - Im Altenheim (feat. Körperflleisch Kommando Krew).mkv
+|   |-- 20110713_Fresh D. - Nur ein Statist.mkv
+|   |-- 20110713_Fresh D. - Vergilbte Philosophie (feat. DJ DeLuc).mkv
+|   |-- 20130608_Fresh D. - Attack of the Tromaggot [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Back to the Roots [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Dicke Muddaliebe feat. Sönke alias DirtyKingBalla [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Die Milch macht's (Megamix) [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Fresh by SoundRevolution [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Ich schlafe nie wieder [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Im Altenheim feat. Körperfleisch Kommando Krew [HD-Sound].mkv
+|   |-- 20130608_Fresh D. - Nur ein Statist [HD-Sound].mkv
+|   `-- 20130608_Fresh D. - Vergilbte Philosophie feat. DJ DeLuc [HD-Sound].mkv
+|-- Fresh D Bits
+|   |-- 20120802_Fresh Ds Umgestaltung - Coldmirrors Cut mit YOU FM.mkv
+|   |-- 20130502_All eyes on FRESH D - Dein Lieblingsrapper mit Coldmirror.mkv
+|   |-- 20130802_FRESH D wird alt - Dein Lieblingsrapper mit Coldmirror und YOU FM.mkv
+|   |-- 20130905_FRESH D und seine Soundmaschinen - Dein Lieblingsrapper mit Coldmirror und YOU FM.mkv
+|   |-- 20140102_FRESH D's Body - Dein Lieblingsrapper mit Coldmirror und YOU FM.mkv
+|   |-- 20141109_Fresh D - Reife Früchte.mkv
+|   |-- 20151004_Fresh D's Gebisstrickshots.mkv
+|   |-- 20151208_FRESH D's Rhymebook - Dein Lieblingsrapper mit Coldmirror und YOU FM.mkv
+|   `-- 20160204_Date Tape „Fresh D“ mit Coldmirror.mkv
+|-- Friends
+|   |-- 20110706_Richi - Coldmirror Friends.mkv
+|   |-- 20110804_Kwink - Coldmirror Friends.mkv
+|   |-- 20110901_Coldmirror Friends - AequitaS.mkv
+|   |-- 20120105_Jon Lajoie - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20120405_Brentalfloss - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20120607_The Slo Mo Guys - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20120705_Shane Bang - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20120802_BlameSocietyFilms - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20120906_5secondfilms - YOU FM Friends mit Coldmirror.mkv
+|   |-- 20121004_EpicRapBattles - YOU FM Friends mit Coldmirror.mkv
+|   `-- 20121101_KipKay - YOU FM Friends mit Coldmirror.mkv
+|-- Game Check
+|   |-- 20110704_Duke Nukem Forever - YOU FM GAME CHECK mit Coldmirror.mkv
+|   |-- 20110718_Alice： Madness Returns - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20110801_Cars 2 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20110815_Terraria - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20110829_From Dust - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20110912_Limbo - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20110926_Harveys neue Augen - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111010_Deus Ex： Human Revolution - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111024_Driver San Francisco - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111107_Battlefield 3 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111121_Glowfish - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111205_Anno 2070 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20111219_The Elder Scrolls 5 - Skyrim - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120110_Jurassic Park - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120123_Star Wars - The Old Republic - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120206_Deponia - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120220_Unstoppable Gorg - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120302_PS Vita - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120327_Alan Wake - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120402_Angry Birds Space - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120416_Draw Something - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120430_Botanicula - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120515_Risen 2 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120530_Diablo 3 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120612_Sword and Sworcery - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120629_Max Payne 3 - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120712_DAY Z - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120723_Robot Unicorn Attack Evolution - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120806_Slender - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120828_Unmechanical - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120903_Endless Space - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120917_Tony Hawk Pro Skater HD  - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20121001_Black Mesa  - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20121016_Torchlight II - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20121029_Dishonored - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20121112_YOU FM Gamecheck - Assassin's Creed III.mkv
+|   |-- 20121126_YOU FM Game Check Need For Speed Most Wanted.mkv
+|   |-- 20121207_YOU FM Game Check - Iron Sky Invasion.mkv
+|   |-- 20130102_YOU FM Game Check - Far Cry 3.mkv
+|   |-- 20130114_YOU FM Game Check - Waking Mars.mkv
+|   |-- 20130129_YOU FM Game Check - The Walking Dead.mkv
+|   |-- 20130211_YOU FM Game Check - Antichamber.mkv
+|   |-- 20130225_YOU FM Game Check - The Cave.mkv
+|   |-- 20130311_YOU FM Game Check - Crysis 3.mkv
+|   |-- 20130325_YOU FM Game Check Tomb Raider.mkv
+|   |-- 20130408_YOU FM Game Check Sim City.mkv
+|   |-- Alan Wake - YOU FM Game Check mit Coldmirror [k1Qsqe9Aa8I].mkv
+|   |-- Alice Madness Returns - YOUFM Gamecheck [b1IN7s7JGys].mkv
+|   |-- Angry Birds Chrome - YOUFM Gamecheck [1uE7_3N-UvQ].mkv
+|   |-- Angry Birds Space - YOU FM Game Check mit Coldmirror [SWB5keglMko].mkv
+|   |-- Anno 1404 - YouFM GameCheck [pPwCM3Y7loU].mkv
+|   |-- Anno 2070 - YOUFM Gamecheck [kNUJnl1aCOM].mkv
+|   |-- Bible Online - YOUFM GameCheck [IT0wEyAzbs0].mkv
+|   |-- Bioshock 2 - YouFM GameCheck [RIG-8gtymcA].mkv
+|   |-- Black Mesa  - YOU FM Game Check mit Coldmirror [vPPY0OSQh94].mkv
+|   |-- Black Mirror 2 - YouFM GameCheck [5HzbjuGBgqA].mkv
+|   |-- Black Prophecy -  YOUFM Gamecheck [vEqiY1bhpWU].mkv
+|   |-- Botanicula - YOU FM Game Check mit Coldmirror [6AE_XsRffdc].mkv
+|   |-- Cars 2 - YOUFM Gamecheck [DnNv7lTUmyE].mkv
+|   |-- Civilization V - YOUFM GameCheck [lRrmew6TQFM].mkv
+|   |-- Command & Conquer 4 - YouFM GameCheck [fV0vpjuwkS4].mkv
+|   |-- Crysis 2 - YOUFM Gamecheck [yTqk3qLZY2s].mkv
+|   |-- Crysis 3 - YOUFM Gamecheck [uK6Ud-aHnAs].mkv
+|   |-- CSI Tödliche Absichten - YouFM GameCheck [bImrvyTFAR8].mkv
+|   |-- Dark Fall： Lost Souls - YouFM GameCheck [cjFhFzENlzo].mkv
+|   |-- Darkness Within 2 - YouFM GameCheck [VIPsGF9R7-8].mkv
+|   |-- DAY Z - YOU FM Game Check mit Coldmirror [_806kOuQ__E].mkv
+|   |-- Deponia - YOU FM Game Check mit Coldmirror [4v6S6MZoWaQ].mkv
+|   |-- Deus Ex - YOUFM Gamecheck [49Jraym2KXg].mkv
+|   |-- Diablo 3 - YOU FM Game Check mit Coldmirror [tAa3o4quoOw].mkv
+|   |-- Die Siedler Online - YOUFM Gamecheck [v0WpD8TwiwQ].mkv
+|   |-- Die Sims Mittelalter - YOUFM Gamecheck [c4X2ZaihrZc].mkv
+|   |-- Dishonored - YOU FM Game Check mit Coldmirror [0Kwp8jEavxk].mkv
+|   |-- Divinty 2 - YouFM GameCheck [Pb8z2MVDFpQ].mkv
+|   |-- Don't Starve - Gamecheck [aVW49tG0tGw].mkv
+|   |-- Draw Something - YOU FM Game Check mit Coldmirror [_4zkhVMLkt4].mkv
+|   |-- Driver San Francisco - YOU FM Game Check mit Coldmirror [YRwdLwxEvjQ].mkv
+|   |-- Duke Nukem Forever - YOUFM Gamecheck [_JelYeNJHg8].mkv
+|   |-- Endless Space - YOU FM Game Check mit Coldmirror [6IyZJdLSFoQ].mkv
+|   |-- Fallout New Vegas - YOUFM GameCheck [--ZWMci3yIQ].mkv
+|   |-- Final Fantasy 13 - YouFM GameCheck [TD8G5yXIT34].mkv
+|   |-- From Dust - YOUFM Gamecheck [xUgYMfl7xpw].mkv
+|   |-- Glowfish - YOUFM Gamecheck [a2VGWmhK-mA].mkv
+|   |-- Harry Potter und die Heiligtümer des Todes Teil 1 - YOUFM Gamecheck [IoI1gV6BNYY].mkv
+|   |-- Harveys neue Augen - YOUFM Gamecheck [BRkFZNy5Igw].mkv
+|   |-- Heavy Rain Impressionen [7S6BYXEkrEM].mkv
+|   |-- Jurassic Park The Game - YOUFM Gamecheck [CX4CnRNh-s8].mkv
+|   |-- L.A. Noire - YOUFM Gamecheck [bw5ZnuJAMCw].mkv
+|   |-- Lara Croft and the Guardian of Light - YOUFM GameCheck [2a10z_yBBYk].mkv
+|   |-- LEGO® Harry Potter™ - YouFM GameCheck [HJG4R1rx1QA].mkv
+|   |-- Limbo - YOUFM Gamecheck [Wm3S8cHC4XQ].mkv
+|   |-- Machinarium - YouFM GameCheck [51ZT4RhjehU].mkv
+|   |-- Mafia 2 - YOUFM GameCheck [wN5ErwFwC1c].mkv
+|   |-- Magicka - YOUFM Gamecheck [yRyzJDRqVdQ].mkv
+|   |-- Max Payne 3 - YOU FM Game Check mit Coldmirror [27XCLhNa3Do].mkv
+|   |-- Minecraft - YOUFM GameCheck [vYO-dpitozk].mkv
+|   |-- Modern Warfare 2 - YouFM GameCheck [PzdTI1mRZOc].mp4
+|   |-- Nintendo 3DS - YOUFM Gamecheck [hFaHCLhpfAg].mkv
+|   |-- Osmos - YouFM GameCheck [6BRRuiWd898].mkv
+|   |-- Pflanzen VS Zombies - YouFM GameCheck [VwgnfwunBEA].mkv
+|   |-- Portal 2 - YOUFM Gamecheck [vZrj_KRMSbw].mkv
+|   |-- Pro Evolution Soccer 2010 - YouFM GameCheck [5keh-0eBVMU].mkv
+|   |-- PS Vita - YOU FM Game Check mit Coldmirror [oZwcZdbueIY].mkv
+|   |-- Risen 2 - YOU FM Game Check mit Coldmirror [DNjHTjghfaU].mkv
+|   |-- Robot Unicorn Attack Evolution - YOU FM Game Check mit Coldmirror [ulQ2k-nG0jM].mkv
+|   |-- Sims3 Reiseabenteuer - YouFM GameCheck [Esj9m_Pv1Ak].mkv
+|   |-- Sims 3 Traumkarrieren - YOUFM GameCheck [J0ZkqpcHsac].mkv
+|   |-- Skyrim - YOUFM Gamecheck [omdr-4iK8H0].mkv
+|   |-- Slender - YOU FM Game Check mit Coldmirror [shFlnTZ4AyU].mkv
+|   |-- Split Second Velocity - YouFM GameCheck [8ExZ91eu0c8].mkv
+|   |-- Starcraft 2 - YouFM GameCheck [CY5MhU6wmGI].mkv
+|   |-- Star Wars The Old Republic - YOUFM Gamecheck [3dA1WTbINTQ].mkv
+|   |-- Sword and Sworcery - YOU FM Game Check mit Coldmirror [TrK052GfUGM].mkv
+|   |-- Terraria - YOUFM Gamecheck [iynt8TyENfo].mkv
+|   |-- Tiny Bang Story - YOUFM Gamecheck [G2f4-iiTSiI].mkv
+|   |-- Torchlight II - YOU FM Game Check mit Coldmirror [A5lDYaixZM8].mkv
+|   |-- ToyStory 3 - YOUFM GameCheck [J8EoZRxFo3M].mkv
+|   |-- Tron Evolution - YOUFM Gamecheck [YZKd2jDL5ho].mkv
+|   |-- Ubisofts Online-Zwang [EywrJbXWgLs].mkv
+|   |-- Unmechanical - YOU FM Game Check mit Coldmirror [Y8rDhPEWfcI].mkv
+|   |-- Unstoppable Gorg - YOU FM Game Check mit Coldmirror [x7lwI74ntXE].mkv
+|   |-- Warum es keinen Gamecheck zu Tony Hawk Ride gibt... [e0_1mOVXdBw].mkv
+|   |-- Wolkig mit Aussicht auf Fleischbällchen - YouFM GameCheck [Fj_SqRy7Eyo].mkv
+|   |-- World of Zoo - YouFM GameCheck [WcUizYeaJ5w].mkv
+|   |-- YOU FM Game Check - Antichamber [HhnBYdOObQs].mkv
+|   |-- YOU FM Gamecheck - Assassin's Creed III [SXe949pVfps].mkv
+|   |-- YOU FM Game Check - Crysis 3 [VzQc7dzppOo].mkv
+|   |-- YOU FM Game Check - Far Cry 3 [yWhRZCOnKZQ].mkv
+|   |-- YOU FM Game Check - Iron Sky Invasion [9ADE4jnp_2g].mkv
+|   |-- YOU FM Game Check Need For Speed Most Wanted [j1UbsUsjvaE].mkv
+|   |-- YOU FM Game Check Sim City [76ucp-9DQ58].mkv
+|   |-- YOU FM Game Check - The Cave [iDpB7wqSwtU].mkv
+|   |-- YOU FM Game Check - The Walking Dead [3o0YUAwDW1M].mkv
+|   |-- YOU FM Game Check Tomb Raider [wGynL99AoII].mkv
+|   |-- YOU FM Game Check - Waking Mars [19DXBj01M7c].mkv
+|   `-- Zurück in die Zukunft - YOUFM Gamecheck [C6761PpAK5U].mkv
+|-- Google Übersetzer-Satzvervollständigunsroboter
+|   |-- 20200507_Total inspirierende Zitate &amp; Google Übersetzer.mkv
+|   |-- 20220412_Kochen mit Satzvervollständigungsroboter.mkv
+|   |-- 20220526_Kochen mit Satzvervollständigungsroboter #2.mkv
+|   `-- 20221012_Grimms Märchen &amp; Satzvervollständigung.mkv
+|-- Harry Potter Synchros
+|   |-- Harry Potter und der Geheime Pornokeller
+|   |	|-- Harry Potter und der Geheime Pornokeller.mkv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part10.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part 1.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part 2.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part3.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part4.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part5.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part6.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part7.wmv
+|   |	|-- Harry Potter und der Geheime Pornokeller_Part8.wmv
+|   |	`-- Harry Potter und der Geheime Pornokeller_Part9.wmv
+|   |-- Harry Potter und der Plastik-Pokal
+|   |	|-- Harry Potter und der Plastik-Pokal.mkv
+|   |	|-- Harry Potter und der Plastik-Pokal Part1.wmv
+|   |	|-- Harry Potter und der Plastik-Pokal_Part 2.wmv
+|   |	|-- Harry Potter und der Plastik-Pokal_Part 3.wmv
+|   |	|-- Harry Potter und der Plastik-Pokal_Part 4.wmv
+|   |	|-- Harry Potter und der Plastik-Pokal_Part 5.wmv
+|   |	`-- Harry Potter und der Plastik-Pokal_Part .wmv
+|   `-- Harry Potter und ein Stein
+|	|-- 20080509_MAKING OF - Wie macht man eine Synchro？.mkv
+|	|-- Harry Potter und ein Stein.mp4
+|	|-- Harry Potter und ein Stein_Outtakes.wmv
+|	|-- Harry Potter und ein Stein_Part 10.wmv
+|	|-- Harry Potter und ein Stein_Part 1.wmv
+|	|-- Harry Potter und ein Stein_Part 2.wmv
+|	|-- Harry Potter und ein Stein_Part 3.wmv
+|	|-- Harry Potter und ein Stein_Part 4.wmv
+|	|-- Harry Potter und ein Stein_Part 5.wmv
+|	|-- Harry Potter und ein Stein_Part 6.wmv
+|	|-- Harry Potter und ein Stein_Part 7.wmv
+|	|-- Harry Potter und ein Stein_Part 8.wmv
+|	`-- Harry Potter und ein Stein_Part 9.wmv
+|-- Harry Potter und Google Übersetzer
+|   |-- 20180622_Harry Potter und der Stein auf dem Boden.mkv
+|   |-- 20180718_Harry Potter und die Kammer des flammend roten Haares.mkv
+|   |-- 20180815_Harry Potter und der Gefangene von Uuuuhuuuh.mkv
+|   |-- 20180911_Harry Potter und der Polizei.mkv
+|   |-- 20190411_Harry Potter und der Orden des fettreduzierten Snacks - TEIL 1.mkv
+|   |-- 20190424_Harry Potter und der Orden des fettreduzierten Snacks - TEIL 2.mkv
+|   |-- 20190930_Harry Potter und der beste Harry Potter.mkv
+|   |-- 20200226_Harry Potter& Google Übersetzer.mkv
+|   |-- 20200604_Harry Potter & Google Übersetzer #2.mkv
+|   |-- 20210312_Harry Potter und die Heiligtümer des Rasenmähers Teil 1.mkv
+|   `-- 20210326_Harry Potter und die Heiligtümer des Rasenmähers Teil 2.mkv
+|-- Interviews
+|   |-- 20091006_Coldmirror interview Teil 10.mkv
+|   |-- 20091006_Coldmirror interview Teil 11.mkv
+|   |-- 20091006_Coldmirror interview Teil 12.mkv
+|   |-- 20091006_Coldmirror interview Teil 1.mkv
+|   |-- 20091006_Coldmirror interview Teil 2.mkv
+|   |-- 20091006_Coldmirror interview Teil 3.mkv
+|   |-- 20091006_Coldmirror interview Teil 4.mkv
+|   |-- 20091006_Coldmirror interview Teil 5.mkv
+|   |-- 20091006_Coldmirror interview Teil 6.mkv
+|   |-- 20091006_Coldmirror interview Teil 7.mkv
+|   |-- 20091006_Coldmirror interview Teil 8.mkv
+|   |-- 20091006_Coldmirror interview Teil  9.mkv
+|   |-- 20100521_Coldmirror： Selbstmord？ Ich war nah dran! - Das Interview.mkv
+|   |-- 20100821_Coldmirror über das YouTuber-Treffen： Es war kuschelig!.mkv
+|   |-- 20100821_Interview mit Coldmirror (YouTuber-Treffen Gamescom 2010).mkv
+|   |-- 20101230_Coldmirror bei Einsweiter gefragt!- Einsfestival Interview.mkv
+|   |-- 20140829_Blubbcast Folge 8 - KADDI (Coldmirror).mkv
+|   |-- 20140829_Coldmirror zu Gast bei GREY.mkv
+|   |-- 20160530_coldmirror – AMA (TINCON 2016).mkv
+|   |-- 20170626_Coldmirror im Interview - TINCON 2017.mkv
+|   `-- 20180211_Leben als Vorbild, Geld verdienen, YouTube-Entwicklung uvm. ｜ Coldmirror im Talk.mkv
+|-- Japanoschlampen
+|   |-- 20111201_Die Japanoschlampen und die große Klopperei - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20111203_Japanoschlampen #1 - Die große Klopperei.mkv
+|   |-- 20120105_Die Japanoschlampen und die Familienbande - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120106_Japanoschlampen #2 - Familienbande.mkv
+|   |-- 20120202_Die Japanoschlampen und der tierische Spaß  - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120203_Japanoschlampen #3 - Tierischer Spaß.mkv
+|   |-- 20120301_Die Japanoschlampen und Meister Futsis Herausforderung - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120302_Japanoschlampen #4 - Meister Futsis Herausforderung.mkv
+|   |-- 20120405_Die Japanoschlampen und die süße Rache - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120407_Japanoschlampen #5 - Süße Rache.mkv
+|   |-- 20120503_Die Japanoschlampen mit ＂Eiskalt＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120518_Japanoschlampen #6 - Eiskalt.mkv
+|   |-- 20120607_Die Japanoschlampen ＂Chao vs Mototsu＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120608_Japanoschlampen #7 - Chao VS Mototsu.mkv
+|   |-- 20120705_Die Japanoschlampen ＂Operation Shopping＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120720_Japanoschlampen #8 - Operation Shopping.mkv
+|   |-- 20120802_Die Japanoschlampen ＂Fun am Strand＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120804_Japanoschlampen #9 - Fun am Strand.mkv
+|   |-- 20120906_Die Japanoschlampen ＂Wake gibt Gas＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20120913_Japanoschlampen #10 - Wake gibt Gas!.mkv
+|   |-- 20121004_Die Japanoschlampen ＂Ein langweiliger Regentag＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20121007_Japanoschlampen #11 - Ein langweiliger Regentag.mkv
+|   |-- 20121101_Die Japanoschlampen ＂Chao ist Krank＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20121114_Japanoschlampen #12 - Chao ist krank.mkv
+|   |-- 20130206_Japanoschlampen #13 - Neue Freunde.mkv
+|   |-- 20130207_Die Japanoschlampen ＂Neue Freunde＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130307_Die Japanoschlampen ＂Ein lustiger Ausflug＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130308_Japanoschlampen #14 - Ein lustiger Ausflug.mkv
+|   |-- 20130404_Die Japanoschlampen ＂Dein Freund und Helfer＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130411_Japanoschlampen #15 - Dein Freund und Helfer.mkv
+|   |-- 20130502_Die Japanoschlampen ＂Party, Party, Party＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130510_Japanoschlampen #16 - Party Party Party!.mkv
+|   |-- 20130606_Die Japanoschlampen ＂Schatten der Vergangenheit＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130704_Die Japanoschlampen ＂Unverhofftes Wiedersehen＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130705_Japanoschlampen #17 - Schatten der Vergangenheit.mkv
+|   |-- 20130716_Japanoschlampen #18 - Unverhofftes Wiedersehen.mkv
+|   |-- 20130801_Die Japanoschlampen ＂Viel Rummel um nichts＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130804_Japanoschlampen #19 - Viel Rummel um Nichts.mkv
+|   |-- 20130905_Die Japanoschlampen ＂Stars und Sternchen＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20130907_Japanoschlampen #20 - Stars und Sternchen.mkv
+|   |-- 20130910_Japanoschlampen EXTRA - Kjoto Hotel.mkv
+|   |-- 20131003_Die Japanoschlampen ＂Ein abgekartertes Spiel＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20131003_Japanoschlampen #21 - Ein abgekartetes Spiel.mkv
+|   |-- 20131107_Die Japanoschlampen ＂Ein grausamer Fluch＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20131110_Japanoschlampen #22 - Ein grausamer Fluch.mkv
+|   |-- 20131205_Die Japanoschlampen ＂Das Sportfest＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20131210_Japanoschlampen EXTRA - Mazukiyamaknatschnitasawufengtongseng.mkv
+|   |-- 20140102_Die Japanoschlampen ＂GESTERN UND HEUTE＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20140113_Japanoschlampen #23 - Das Sportfest.mkv
+|   |-- 20140215_Japanoschlampen #24 - Gestern und Heute.mkv
+|   |-- 20140607_coldmirror - Japanoschlampen bis(s) zum Morgengrauen.mkv
+|   |-- 20141003_Japanoschlampen - THE MOVIE (Das supermega mysteriöse kackgruselige Horror Abenteuer).mkv
+|   |-- 20141005_Japanoschlampen - THE MOVIE.mkv
+|   |-- 20141016_Japanoschlampen Movie - Langweiliges alternatives Ende.mkv
+|   |-- 20141106_Die Japanoschlampen ＂Wo ist Puschi？＂.mkv
+|   |-- 20141118_Japanoschlampen #25 - Wo ist Puschi？.mkv
+|   |-- 20141204_Japanoschlampen - Es war einmal....mkv
+|   |-- 20141205_Japanoschlampen EXTRA - Ein Zuhaus für Tiere.mkv
+|   |-- 20141211_Japanoschlampen ＊EXTRA＊.mkv
+|   |-- 20141223_Japanoschlampen #26 - Es war einmal....mkv
+|   |-- 20150101_Japanoschlampen - Chao ist krank....mkv
+|   |-- 20150102_Japanoschlampen EXTRA - Knuspa Fitness.mkv
+|   |-- 20150207_Japanoschlampen - Der Einkaufsbummel.mkv
+|   |-- 20150317_Japanoschlampen #27 - Chao ist (schon wieder) krank.mkv
+|   |-- 20150318_Japanoschlampen EXTRA - Ninja Shotgun Gemetzel 3.mkv
+|   |-- 20150507_Japanoschlampen The Movie #2.mkv
+|   |-- 20150526_Japanoschlampen #28 - Einkaufsbummel.mkv
+|   |-- 20150608_Japanoschlampen EXTRA - Man.mkv
+|   |-- 20150629_Japanoschlampen - THE MOVIE #2 (Das ultragrausige Geheimnis der abgefuckthorrormäßigen Monsterstadt).mkv
+|   |-- 20151001_Die Japanoschlampen EXTRA ＂DJ Spaß Spaß Spaß＂.mkv
+|   |-- 20151001_Die Japanoschlampen ＂Tanzball＂.mkv
+|   |-- 20151002_Japanoschlampen # 29 - Tanzball？.mkv
+|   |-- 20151006_Japanoschlampen EXTRA - DJ Spassspassspass.mkv
+|   |-- 20151105_Die Japanoschlampen ＂Der Ring＂.mkv
+|   |-- 20151105_Die Japanoschlampen EXTRA ＂yumgum＂.mkv
+|   |-- 20151124_Japanoschlampen #30 - Ein Ring sie zu knechten.mkv
+|   |-- 20151127_Japanoschlampen EXTRA - Yumgum.mkv
+|   |-- 20151204_Die Japanoschlampen ＂Gute Miene zum bösen Spiel＂.mkv
+|   |-- 20160107_Die Japanoschlampen ＂Chaos Berufung＂.mkv
+|   |-- 20160115_Japanoschlampen #31 - Gute Miene zum bösen Spiel.mkv
+|   |-- 20160205_Die Japanoschlampen ＂Durch den Spiegel＂.mkv
+|   |-- 20160206_Die Japanoschlampen EXTRA ＂Gedärme Gemetzel Girl＂.mkv
+|   |-- 20160303_Japanoschlampen The Movie #3.mkv
+|   |-- 20160330_Japanoschlampen #32 - Chao's Berufung.mkv
+|   |-- 20160402_Japanoschlampen EXTRA - Beruf-o-mat.mkv
+|   |-- 20160726_Japanoschlampen #33 - Durch den Spiegel.mkv
+|   |-- 20160727_Japanoschlampen EXTRA - GedärmeGemetzelGirl.mkv
+|   |-- 20160923_Japanoschlampen - THE MOVIE #3 (Das intergalaktische Gruselrätsel auf der scheißschauerlichen Farm).mkv
+|   |-- 20171109_StarStarSpace #23⧸Japanoschlampen #34 - Die verschollene Episode.mkv
+|   |-- 20190328_Japanoschlampen #35 - Alte und neue Rivalen.mkv
+|   |-- 20190329_Japanoschlampen #35 - Alte und neue Rivalen.mkv
+|   |-- 20190620_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
+|   |-- 20190621_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
+|   |-- 20191129_Japanoschlampen #37 - Wo ist Puschi schon wieder？.mkv
+|   |-- 20200313_Japanoschlampen #38 - Das Straßenfest.mkv
+|   |-- 20200525_Japanoschlampen #39 - Die Vertretung.mkv
+|   |-- 20201002_Japanoschlampen #40 - Geisterstunde in der Schule.mkv
+|   |-- 20201030_Japanoschlampen #41 - Albtraum an Halloween.mkv
+|   |-- 20211001_Japanoschlampen #42 - Mysterium in der Bibliothek (Teil 1).mkv
+|   |-- 20211109_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
+|   `-- 20211112_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
+|-- Kacke Übersetze Film⁄ Videosoiel-Titel
+|   |-- 20171120_Kacke übersetzte Filmtitel.mkv
+|   |-- 20180418_Kacke übersetzte Filmtitel #2.mkv
+|   |-- 20180514_Kacke übersetzte Videospieltitel.mkv
+|   |-- 20180731_Kacke übersetzte Filmtitel #3.mkv
+|   |-- 20191115_Kacke übersetzte Filmtitel #4.mkv
+|   |-- 20210531_Kack Videospiel Produktbeschreibungen.mkv
+|   `-- 20210615_Kacke übersetzte Filmtitel #5.mkv
+|-- Kaddi woanders
+|   |-- 20140829_gamescom 2o11 in Köln - Spezies Gamer feat. Coldmirror.mkv
+|   |-- 20140829_gamescom 2o11 in Köln - Spezies YouTuber feat. Coldmirror.mkv
+|   |-- 20140829_MrMrMinecraftTNT's Geschlechtsverkehr Battle Remix feat. Coldmirror (Hal 9000 Remix Edition).mkv
+|   |-- 20140927_Almost Daily #113： Im Talk mit Coldmirror.mkv
+|   |-- 20170629_coldmirror – SCHLAMPIG animieren (TINCON Berlin 2017).mkv
+|   |-- 20210307_COLDMIRROR über JKR, die HP Serie & den Lockdown!.mkv
+|   |-- 20210928_Erkennst DU den HARRY POTTER Charakter am ersten Satz!？ 😰 ｜ mit @coldmirror.mkv
+|   |-- 20220408_Coldmirror liebt diese Filme... und Alper dichtet dazu! ｜ Podcast.mkv
+|   |-- 20251016_22679-c9d8c401-71d3-4dd0-8787-e10fdfd3a2cf-audio_eng=152001-video=3959609.mp4
+|   |-- 20260624_Die harte Wahrheit über COLDMIRROR.mkv
+|   |-- Bevor Coldmirror berühmt wurde… - KURZBIOGRAPHIE.mp4
+|   |-- Coldmirror： Ihre Lieblingsfilme, ihre Kindheit! (mit @coldmirror).mp4
+|   |-- Coldmirror im Hater-Interview.mp4
+|   |-- Coldmirror_-_Mein_HASSFILM_LIEBLINGSFILM_GUILTY_PLEASURE_Turchen_8_1920x1080[01KXMAC6J4WQ60G312V01W7WSE].mp4
+|   |-- Coldmirror_-_MEIN_LIEBLINGSFILM_der_letzten_10_Jahre_CSB_Adventskalender_4_1920x1080[01KXQNDFPDYAMH8JMA4MQ5XFMY].mp4
+|   |-- COLDMIRROR über HARRY POTTER & PHANTASTISCHE TIERWESEN.mp4
+|   |-- DAS_FINALE_-_HARRY_POTTER_QUIZ_mit_@coldmirror_-_Teil_3_3840x2160[01KXM8324X40B412AM2T3Q3QAF].mp4
+|   |-- Der_Fall_1920x1080[01KXM8KY62DNMAZ3TEG24GMSD5].mp4
+|   |-- Der_Fame_1920x1080[01KXM8NBYRFXZ43ETW5YFEADY7].mp4
+|   |-- Die_Freiheit_1920x1080[01KXM8P547P1ZNW3Y51HYSWXZD].mp4
+|   |-- DIE REVANCHE - das HARRY POTTER QUIZ mit @coldmirror - Teil 2.mp4
+|   |-- HARRY POTTER QUIZ mit @coldmirror ️ - FILM QUIZ BATTLE.mp4
+|   |-- HARRY_POTTER_Szenen_ZEICHNEN_-_mit_@coldmirror_3840x2160[01KXM87FXDRH0V5VTP543VHG6P].mp4
+|   |-- Kleine_bescheuerte_Coldmirror-Parodie_mit_Coldmirror_Sketch_Plus_1920x1080[01KXM8AAT8RRFTJ041DH3Z81RS].mp4
+|   |-- Kritik_-_PHANTASTISCHE_TIERWESEN_2_-_GRINDELWALDS_VERBRECHEN_mit_Coldmirror_1920x1080[01KXMABNKW2WHRQB9W184K35ZC].mp4
+|   |-- Leben_als_Vorbild_Geld_verdienen_YouTube-Entwicklung_uvm._-_Coldmirror_im_Talk_3840x2160[01KXM9S69EER69SF4SMASJGP42].mp4
+|   |-- Reddit AMA 22.06.2026.txt
+|   |-- REVANCHE_-_Erkennst_DU_den_HARRY_POTTER_Charakter_am_ersten_Satz_-_mit_@coldmirror_3840x2160[01KXM9MQEB8D2J4G1FP01WAA60].mp4
+|   |-- Selbstwertgefühl stärken mit Coldmirror!.mp4
+|   |-- TEIL_2_-_Wir_malen_NOCHMAL_Harry_Potter_SZENEN_mit_@coldmirror_3840x2160[01KXMA1BRCPRMPY0WJN4QZNFBJ].mp4
+|   |-- Wer_weiss_mehr_uber_KINDHEITSSERIEN_Alper_vs._@coldmirror_1920x1080[01KXMACQGV035PRDCQN9FZ7PFJ].mp4
+|   `-- Wie Geht's Weiter？! (mit Coldmirror).mp4
+|-- Kunstanalyse
+|   |-- 20091216_Kunstwissenschaftliche Analyse - Fügung der Langeweile.mkv
+|   |-- 20121207_Kunstwissenschaftliche Analyse - Daniele Negroni.mkv
+|   |-- 20130512_Kunstwissenschaftliche Analyse - One Direction.mkv
+|   |-- 20130704_Kunstwissenschaftliche Analyse mit Coldmirror： Justin Bieber.mkv
+|   |-- 20130905_Kunstwissenschaftliche Analyse - Big Time Rush.mkv
+|   |-- 20130915_Kunstwissenschaftliche Analyse - Wahlplakat FDP Rehmet.mkv
+|   |-- 20130915_Kunstwissenschaftliche Analyse - Wahlplakat PBC Gervelmeyer.mkv
+|   |-- 20130916_Kunstwissenschaftliche Analyse - Wahlplakat SPD Ude.mkv
+|   |-- 20131004_Kunstwissenschaftliche Analyse mit Coldmirror： Miley Cyrus.mkv
+|   |-- 20131108_Kunstwissenschaftliche Analyse mit Coldmirror： P!NK.mkv
+|   |-- 20140103_Kunstwissenschaftliche Analyse - Jonas Brothers.mkv
+|   |-- 20140222_Kunstwissenschaftliche Analyse - Justin Timberlake.mkv
+|   |-- 20140524_Kunstwissenschaftliche Analyse - Wahlplakat Bernd Posselt.mkv
+|   |-- 20140525_Kunstwissenschaftliche Analyse - Wahlplakat FDP.mkv
+|   |-- 20141207_Coldmirrors Kunstanalyse： Helene Fischer.mkv
+|   |-- 20141209_Kunstwissenschaftliche Analyse - Rihanna.mkv
+|   |-- 20150127_Kunstwissenschaftliche Analyse - Chris Brown.mkv
+|   |-- 20150207_Coldmirrors Kunstanalyse： Christina Aguilera.mkv
+|   |-- 20150415_Kunstwissenschaftliche Analyse - Helene Fischer.mkv
+|   |-- 20160110_Kunstanalyse mit Coldmirror： ＂Iron Maiden＂.mkv
+|   |-- 20160210_Kunstanalyse mit Coldmirror： ＂Madcon & Ray Dalton＂.mkv
+|   |-- 20160223_Kunstwissenschaftliche Analyse - Modern Talking.mkv
+|   |-- 20160306_Kunstwissenschaftliche Analyse - Marilyn Manson.mkv
+|   `-- 20231117_Kunstwissenschaftliche Analyse - Britney Spears.mkv
+|-- Kunsttips mit  Hauke
+|   |-- 20131118_Haukes Kunst Tipps #1 - Kunstwerk.mkv
+|   |-- 20140202_Haukes Kunst Tipps #2 - Kartoffeldruck.mkv
+|   |-- 20140320_Haukes Kunst Tipps #3 - Nudelbild.mkv
+|   |-- 20140829_Xenomorph Speed Drawing by Coldmirror.mkv
+|   |-- 20141211_Haukes Kunsttipps #4 - Salzteig.mkv
+|   |-- 20150811_Haukes Kunsttipps #5 - Flöte.mkv
+|   |-- 20150831_Haukes Kunsttipps #6 - Optische Täuschung.mkv
+|   |-- 20150909_Bio Steine.mkv
+|   |-- 20150923_Haukes Kunsttipps #7 - Menschenkette.mkv
+|   |-- 20151102_Hauke - Ruft Dich An.mkv
+|   |-- 20160406_Haukes Kunsttipps #8 - Kiste.mkv
+|   |-- 20160607_Haukes Kunsttipps #9 - Sockenpuppe.mkv
+|   `-- 20160820_Haukes Date Tape.mkv
+|-- Let's Play
+|   |-- 20110812_Auletta - Make Love Work - YOU FM Live.mkv
+|   |-- 20130207_Kaddis Leben - Ein Let's Play mit Coldmirror.mkv
+|   |-- 20130404_RETARDZ - Ein Let's Play mit Coldmirror.mkv
+|   |-- 20130606_The Schlimms - Ein Let's Play mit Coldmirror.mkv
+|   `-- 20130906_SLENDER - Ein Horror-Let's Play mit Coldmirror.mkv
+|-- Misheard Filmtitel
+|   |-- 20170802_Misheard Filmtitel #1.mkv
+|   |-- 20170830_Misheard Filmtitel #2.mkv
+|   |-- 20170913_Misheard Filmtitel #3.mkv
+|   `-- 20190313_Misheard Filmtitel #4.mkv
+|-- Misheard Lyrics
+|   |-- 20100324_Misheard Lyrics ＂Pride Shall Fall＂.mkv
+|   |-- 20101217_Misheard Lyrics ＂Suffokate＂.mkv
+|   |-- 20101218_Misheard Lyrics ＂Senad Nikocevic＂.mkv
+|   |-- 20110203_Misheard Lyrics ＂Ismail YK＂.mkv
+|   |-- 20110208_Misheard Lyrics ＂Rashid＂.mkv
+|   |-- 20110307_Misheard Lyrics ＂Little Marbles＂.mkv
+|   |-- 20110623_Der kanadische Tittenmann - Innu⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110626_Misheard WM Lyrics - KANADA.mkv
+|   |-- 20110626_Pumuckl will Huren - Spanisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110627_Misheard WM Lyrics - MEXIKO.mkv
+|   |-- 20110628_Schaum! Schaum! Schaum! - Yoruba⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110629_Misheard WM Lyrics - NIGERIA.mkv
+|   |-- 20110701_Der Brathuhn-Golem - Spanisch&Portugiesisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110707_Die Tucan-Butter - Finnisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110709_Tu Schein in Zeh! - Englisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110715_Das Fliegenweib - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110716_Schlappen! Yes Sir! Schlappen! - Schwedisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110804_Harry und der Käse - Hebräisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20110810_Misheard WM Lryics - USA vs JAPAN.mkv
+|   |-- 20110810_Misheard WM Lyrics - KOLUMBIEN.mkv
+|   |-- 20110810_Misheard WM Lyrics - SCHWEDEN.mkv
+|   |-- 20110810_Misheard WM Lyrics - USA.mkv
+|   |-- 20110901_Hunde im Kaffee - Italienisch⧸Deutsch -  YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20111016_Misheard Lyrics ＂Idan Yaniv＂.mkv
+|   |-- 20111016_Misheard Lyrics ＂Liberpool＂.mkv
+|   |-- 20111016_Misheard Lyrics ＂Magla＂.mkv
+|   |-- 20111016_Misheard Lyrics ＂Neljä Ruusua＂.mkv
+|   |-- 20111016_Misheard Lyrics ＂Pijama＂.mkv
+|   |-- 20111016_Misheard Lyrics ＂Rober Hatemo＂.mkv
+|   |-- 20120202_Dobby und Cher - Polnisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20120405_MC Hai-Ei Türkisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20120607_Tüte Quäle Ketchup Italienisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20120802_Lamm, ey! Schwedisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20120906_Sand am Kinn! Türkisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20130704_Misheard Lyrics - Bye Alex： Kedvesem.mkv
+|   |-- 20130707_Misheard Lyrics ＂Zeal＂.mkv
+|   |-- 20131006_Misheard Lyrics - ＂Marco Mengoni＂.mkv
+|   |-- 20140103_Misheard Lyrics： Soner Sarikabadayi - Kutsal Toprak.mkv
+|   |-- 20140303_Misheard Lyrics - ＂Babasonicos＂.mkv
+|   |-- 20140704_Dämliche Misheard Lyrics Schnipsel.mkv
+|   |-- 20151110_Seil im Sturm - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- 20160103_Misheard Lyrics ＂Carl Espen＂ ~nachgespielt~.mkv
+|   |-- 20160128_Misheard Lyrics - ＂Polaris＂.mkv
+|   |-- 20160502_Misheard Lyrics - ＂Danny Saucedo＂.mkv
+|   |-- 20160809_Misheard Lyrics - ＂Modá＂.mkv
+|   |-- 20170803_Misheard Filmtitel #1.mkv
+|   |-- 20170831_Misheard Filmtitel #2.mkv
+|   |-- 20170914_Misheard Filmtitel #3.mkv
+|   |-- 20190315_Misheard Filmtitel #4.mkv
+|   |-- Das Fliegenweib - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Der Brathuhn-Golem - Spanisch&Portugiesisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Der kanadische Tittenmann - Innu⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Die Tucan-Butter - Finnisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Dobby und Cher - Polnisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Hunde im Kaffee - Italienisch⧸Deutsch -	 YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- MC Hai-Ei Türkisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Pumuckl will Huren - Spanisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Schaum! Schaum! Schaum! - Yoruba⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Schlappen! Yes Sir! Schlappen! - Schwedisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   |-- Tu Schein in Zeh! - Englisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|   `-- Tüte Quäle Ketchup Italienisch⧸Deutsch - YOU FM Misheard Lyrics mit Coldmirror.mkv
+|-- Netmob
+|   |-- 20110706_Balla Balla! - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20110804_Getanzte Worte - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20110901_＊kicher＊ ＊rofl＊ ＊lol＊ - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20111201_Die Story aus Lieblingswörtern - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120105_Die kleine Wasserflaschen-Musik - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120202_Das Wundermittel Kaugummi - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120301_Die heilige Banane - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120503_Coldröschens Märchenstunde - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120607_Der Internet-Geräusche-Beat - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120705_Die Schaumparty - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20120906_Beauty Talk - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20121004_Die schönste SMS - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130207_Verrücktes Zeichnen - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130307_Promis nachmachen  - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130404_Fremdsprachen - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130502_Zungenbrecher - YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130704_YOU FM Netmob mit Coldmirror.mkv
+|   |-- 20130802_YOU FM Netmob mit Coldmirror - Singen.mkv
+|   |-- 20130906_YOU FM Netmob mit Coldmirror - Albtraumwesen.mkv
+|   |-- 20131004_YOU FM Netmob mit Coldmirror - Rückwärtssprechen.mkv
+|   |-- Balla Balla! - YOU FM Netmob mit Coldmirror.mkv
+|   |-- Coldröschens Märchenstunde - YOU FM Netmob mit Coldmirror.mkv
+|   |-- Das Wundermittel Kaugummi - YOU FM Netmob mit Coldmirror.mkv
+|   |-- Die heilige Banane - YOU FM Netmob mit Coldmirror.mkv
+|   |-- Die kleine Wasserflaschen-Musik - YOU FM Netmob mit Coldmirror.mp4
+|   |-- Die Story aus Lieblingswörtern - YOU FM Netmob mit Coldmirror.mkv
+|   |-- Getanzte Worte - YOU FM Netmob mit Coldmirror.mkv
+|   `-- ＊kicher＊ ＊rofl＊ ＊lol＊ - YOU FM Netmob mit Coldmirror.mkv
+|-- Other
+|   |-- 20170614_Ein beschissenes Blinddate ｜ Trustory.mkv
+|   |-- 20200128_Curious Expedition Rivals - Gamecheck YOUbiläum.mkv
+|   |-- 20231113_Kunstwissenschaftliche Analyse - Britney Spears.mkv
+|   `-- 20260615_Sporno.mkv
+|-- Spechelle's Specialities
+|   |-- 20151002_Spechelle's Specialities ＂Brockenbrühe＂.mkv
+|   |-- 20151107_Spechelle's Specialities ＂Schlabberschlonze＂.mkv
+|   `-- 20151206_Spechelle's Specialities ＂Klumbatsch＂.mkv
+|-- StarStarSpace
+|   |-- 20161128_StarStarSpace #1 - UnENTliche Weiten.mkv
+|   |-- 20161128_StarStarSpace #2 - Stream me up!.mkv
+|   |-- 20161128_StarStarSpace #3 - Das fettste seiner Art.mkv
+|   |-- 20161128_StarStarSpace #4 - 01110111 01110100 01100110.mkv
+|   |-- 20161128_StarStarSpace #5 - Das ist kein Mond.mkv
+|   |-- 20161128_StarStarSpace #6 - Das Sternentor.mkv
+|   |-- 20161128_StarStarSpace #7 - Fragen Sie Ihren Arsch oder Apotheker.mkv
+|   |-- 20161205_StarStarSpace #8 - Gobble Gobble.mkv
+|   |-- 20161216_StarStarSpace #9 - Im Weltraum hört dich niemand schreien.mkv
+|   |-- 20170116_StarStarSpace #10 - Panik im Paradies.mkv
+|   |-- 20170214_StarStarSpace #11 - Angriffsziel Tanke.mkv
+|   |-- 20170412_StarStarSpace #12 - Fragwürdige Fragmente_fixed.mkv
+|   |-- 20170427_StarStarSpace #13 - Sweet Streams.mkv
+|   |-- 20170512_StarStarSpace #14 - Ehrenhafte Tradition.mkv
+|   |-- 20170525_StarStarSpace #15 - Nicht nur sauber sondern rein.mkv
+|   |-- 20170608_StarStarSpace #16 - Eigenartige Eier.mkv
+|   |-- 20170622_StarStarSpace #17 - Sammler und Jäger und Sammler.mkv
+|   |-- 20170706_StarStarSpace #18 - Das Schrottrennen.mkv
+|   |-- 20170718_StarStarSpace #19 - Das Kind.mkv
+|   |-- 20170816_StarStarSpace #20 - Alles nur ein Job.mkv
+|   |-- 20170927_StarStarSpace #21 - Relativistischer Dopplereffekt.mkv
+|   |-- 20171012_StarStarSpace #22 - Das Kollektiv.mkv
+|   |-- 20171109_StarStarSpace #23⧸Japanoschlampen #34 - Die verschollene Episode.mkv
+|   |-- 20171222_StarStarSpace - FanArt (2017).mkv
+|   |-- 20180313_StarStarSpace #24.mkv
+|   |-- 20180503_StarStarSpace #25 - Keks essen kreiert Spaß.mkv
+|   |-- 20180702_StarStarSpace #26 - Space Bermuda Dreieck.mkv
+|   |-- 20180829_StarStarSpace #27 - Schädlinge.mkv
+|   |-- 20180927_StarStarSpace #28 - Dreck im Unterdeck.mkv
+|   |-- 20181121_StarStarSpace #29 - Montag.mkv
+|   |-- 20190228_StarStarSpace #30 - Vollendete Zukunft.mkv
+|   |-- 20190521_StarStarSpace #31.mkv
+|   |-- 20190905_StarStarSpace #32 - Wie man in den Wald hineinruft....mkv
+|   |-- 20191213_StarStarSpace #33 - Die Prüfung.mkv
+|   |-- 20191222_StarStarSpace - FanArt (2019).mkv
+|   |-- 20200410_StarStarSpace #34 - Arsch, Robot.mkv
+|   |-- 20200619_StarStarSpace #35 - Planet X.mkv
+|   |-- 20201127_StarStarSpace #36 - Kurzgesagt, der Weltraum ist groß!.mkv
+|   `-- 20201211_StarStarSpace - FanArt (2020).mkv
+|-- Synchros
+|   |-- Anne Will's Wissen
+|   |	|-- 20130501_Anne Will's Wissen.mkv
+|   |	|-- Anne Will's Wissen.txt
+|   |	`-- Hashes.txt
+|   |-- Back to the Future
+|   |	|-- 20121004_Zurück in deine Mudda - coldmirror Impro Synchro.mkv
+|   |	|-- Berrg turr durr Fjerterr.mp4
+|   |	|-- Berrg turr durr Fjerterr.txt
+|   |	`-- Hashes.txt
+|   |-- Der Zauberer von OZ - Die Dorothy Schlampe
+|   |	|-- 20121001_Wizard of Oz 'Die Dorothy Schlampe' - Coldmirror Impro Synchro.mkv
+|   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 2 - coldmirror Impro Synchro.mkv
+|   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 3 - coldmirror Impro Synchro.mkv
+|   |	`-- Hashes.txt
+|   |-- Divers
+|   |	|-- 20110602_The Movies- Bis dass der Tod uns tötet.mkv
+|   |	|-- 20110602_The Movies - Korridor der Verwirrung.mkv
+|   |	|-- 20121004_Sieben Tage - coldmirror Impro Synchro.mkv
+|   |	|-- 20130222_Pyramidenbräu - Grunzende Frau 5 Minuten Version.mkv
+|   |	|-- 20130222_Synchro ＂Pyramidenbräu＂.mkv
+|   |	|-- 20130311_Schwilent Schwill - coldmirror Impro Synchro.mkv
+|   |	|-- 20200425_DRAMA™.mkv
+|   |	`-- 20221222_💔.mkv
+|   |-- Fluch der Karibik
+|   |	|-- 20121001_Fluch der Karibik - Coldmirror Impro Synchro.mkv
+|   |	`-- Hashes.txt
+|   |-- Hannibal
+|   |	|-- 20131004_Hannibal⧸Firlefanz.mkv
+|   |	|-- Dumme Hannibal Synchro.mp4
+|   |	|-- Dumme Hannibal Synchro.txt
+|   |	|-- Hannibal - Amuuuuse Busche (Impro-Synchro mit Sönke und Kaddi).mp4
+|   |	|-- Hannibal - Entrée (Impro-Synchro mit Sönke und Kaddi).mp4
+|   |	|-- Hannibal_Firlefanz.txt
+|   |	|-- Hannibal - Po Tage und Zeeeuuuf (Impro-Synchro mit Sönke und Kaddi).mp4
+|   |	|-- Hannibal - Sorbet (Impro-Synchro mit Sönke und Kaddi).mp4
+|   |	`-- Hashes.txt
+|   |-- In 7 Tagen bist du tot
+|   |	|-- Hashes.txt
+|   |	`-- In 7 Tagen bist du tot.mp4
+|   |-- Kleine behinderte Avengers Synchro
+|   |	|-- Hashes.txt
+|   |	|-- Kleine behinderte Avengers Synchro.mp4
+|   |	|-- Kleine behinderte Avengers Synchro.txt
+|   |	`-- SHA256.sh
+|   |-- Lord Of The Rings - Gandalf der Penner
+|   |	|-- 20121005_HDR 'Elrond hat Geburtstag' - coldmirror Impro Synchro.mkv
+|   |	|-- Hashes.txt
+|   |	|-- Lord Of The Rings - Gandalf der Penner.mp4
+|   |	`-- SHA256.sh
+|   |-- Politiker
+|   |	|-- 20110706_Angie in Bremen - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20110804_Obama bei der Feuerwehr  - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20110901_Angie & Obama： Das Rapbattle - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20111201_Obamas Rap-Konzert - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120105_Obamas Kochstübchen - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120202_Präsidenten Lifestyle - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120301_Die wilde Helle - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120405_Obamas Bücherei - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120503_Merkels fette Beats - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120607_Merkel TV - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120705_Obamas YouTube-Armee - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120802_Merkels geheime Affäre - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20120906_Der Swag Präsident - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20121004_Obama und das Basketball-Team - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20121101_Das neue Album von Angela Merkel - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130207_Obamas Vlog  - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130307_Putins lustige Sendung - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130404_MISSY MERKEL & MC HOLLANDAISE - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130502_Putins lustige Psychotherapie - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130606_Angelas Referat - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130704_Obamas Deep Poetry - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130802_Putin in Höchstform - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20130905_Obama und die NSA - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20131004_Merkel vs. Letta - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20131108_Putin im Grünen - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20131209_Merkel - Das Supertalent. YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20140103_Putins lustige Show  - YOU FM Synchro mit Coldmirror und viel Erotik.mkv
+|   |	|-- 20141110_＊＊＊ NEU ＊＊＊ Putins lustige Show.mkv
+|   |	|-- 20141209_Obamas beste Jacke ever!.mkv
+|   |	|-- 20151006_Angie Merkel vs. Grandmaster Glatze - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20151111_Putin feiert Geburtstag ｜ YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20160112_Prinz William und sein Hubschrauber - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- 20160209_Putins Deep Poetry - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- Angie in Bremen - YOU FM Synchro mit Coldmirror.webm
+|   |	|-- Die wilde Helle - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- Merkels fette Beats - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- Obama bei der Feuerwehr  - YOU FM Synchro mit Coldmirror.webm
+|   |	|-- Obamas Bücherei - YOU FM Synchro mit Coldmirror.webm
+|   |	|-- Obamas Kochstübchen - YOU FM Synchro mit Coldmirror.mkv
+|   |	|-- Obamas Rap-Konzert - YOU FM Synchro mit Coldmirror.mkv
+|   |	`-- Präsidenten Lifestyle - YOU FM Synchro mit Coldmirror.mkv
+|   |-- Potter pwnage
+|   |	|-- Hashes.txt
+|   |	|-- Potter pwnage.mp4
+|   |	`-- Potter pwnage.txt
+|   |-- Shitty Shitty Bang Bang
+|   |	|-- Hashes.txt
+|   |	`-- Shitty Shitty Bang Bang (Impro-Synchro).mp4
+|   |-- Star Trek
+|   |	|-- 20130516_Star Trek - Speck ist super.mkv
+|   |	|-- Hashes.txt
+|   |	|-- Star Trek Rentnerkreis (Impro-Synchro).mp4
+|   |	`-- Star Trek - Speck ist super.txt
+|   |-- Tatort
+|   |	|-- 20170103_Tatort Synchro - Pimp my Tatort!.mkv
+|   |	|-- 20170106_Tatort Synchro - Pizza Tatort.mkv
+|   |	|-- 20170110_Tatort Synchro - Blind Tatort Date.mkv
+|   |	|-- 20170203_Tatort Synchro - Echte Gangster.mkv
+|   |	|-- 20170321_Tatort Synchro - Funcamp.mkv
+|   |	`-- 20170404_Tatort Synchro - Logo Meeting.mkv
+|   `-- Unsinn und Sinnlosigkeit
+|	|-- Hashes.txt
+|	|-- Tatsächlich dumm (ZENSIERT ohne Titten).mp4
+|	|-- Unsinn und Sinnlosigkeit - Teil 1.mp4
+|	`-- Unsinn und Sinnlosigkeit - Teil 2.mp4
+|-- TeleKaddi
+|   |-- 20241029_TELEKADDI – Ah, Oh, Stress im Teletubbyland.mkv
+|   |-- 20241111_TELEKADDI – Creepypasta statt Krabbenburger.mkv
+|   |-- 20241223_TELEKADDI – Kaddi allein zu Haus.mkv
+|   |-- 20250227_TELEKADDI – Pokéboobs.mkv
+|   |-- 20250625_TELEKADDI – Latexdinos und große Eier.mkv
+|   |-- 20250716_TELEKADDI - Darkwing Crush.mkv
+|   |-- 20251028_TELEKADDI - Gänsehaut, Geistermaske und ein (Grab)Stine.mkv
+|   |-- 20251219_TELEKADDI – Der Zauberer von Oz-Best.mkv
+|   |-- 20260220_TELEKADDI - GO GO Recycle Rangers!.mkv
+|   `-- 20260603_TELEKADDI – Was zum Mondstein？!.mkv
+|-- was machen eigentlich
+|   |-- 20131107_Was machen eigentlich die Sterne？ Coldmirror schaut nach....mkv
+|   |-- 20131206_Was machen eigentlich die Sterne？ Coldmirror schaut nach....mkv
+|   `-- 20140103_Was machen eigentlich die Sterne？ Coldmirror entdeckt Erstaunliches.....mkv
+|-- Werbung
+|   |-- 20170213_Spam von Neil Darke.mkv
+|   |-- 20171026_#scheisswerbung synchro.mkv
+|   |-- 20180212_Spam von Kacie.mkv
+|   |-- 20181127_Sponsored by....mkv
+|   |-- 20190118_Merkwürdiges Dankschreiben.mkv
+|   `-- 20230213_Pørnbots.mkv
+|-- What the FAQ
+|   |-- 20111201_Das nackte Bild - YOU FM ＂What The FAQ？!＂ mit Coldmirror.mkv
+|   |-- 20111201_Der irre Fan - YOU FM ＂What The FAQ？!＂ mit Coldmirror.mkv
+|   |-- 20120105_Coldmirror ist behindert geil - YOU FM ＂What the faq？!＂ mit Coldmirror.mkv
+|   |-- 20120202_Coldmirror macht zu viel Werbung - YOU FM ＂What the faq？!＂ mit Coldmirror.mkv
+|   |-- 20120301_Die schöne Frau am Herd - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20120405_Das Kmompliment - YOU FM ＂What the faq？!＂ mit Coldmirror.mkv
+|   |-- 20120503_Etwas lustiges für Fresh D - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20120607_Gut angekommen？ - YOU FM ＂What the faq？!＂ mit Coldmirror.mkv
+|   |-- 20120802_Die Schnellfragerunde - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20120906_Das Model - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20121004_Die Hoffnung - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20121101_Die Katzen - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130207_Echtes Leben - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130307_Bügeln - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130404_Rülpsen - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130502_Mäuse - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130606_Dr. Who - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130704_Bescheuerte Mails - YOU FM What the FAQ mit Coldmirror.mkv
+|   |-- 20130802_Coldmirrors wahrer Freund - YOU FM What the FAQ.mkv
+|   |-- 20130905_Coldmirror geht ab - YOU FM What the FAQ.mkv
+|   `-- 20131003_Es atmet - YOU FM What the FAQ.mkv
+|-- Wie fühlt sich
+|   |-- 20131108_Wie fühlt sich ein... Locher？ Coldmirror weiß es..mkv
+|   |-- 20131206_Wie fühlt sich ein... Stuhl？ Coldmirror weiß es..mkv
+|   |-- 20131206_Wie fühlt sich ein... Toaster？ Coldmirror weiß es..mkv
+|   `-- 20151106_Wie fühlt sich ein... Fernseher？ Coldmirror weiß es..mkv
+|-- Wir Hören Uns Alle Gegenseitig
+|   |-- 20210526_Wer bin ich？？？ ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #1.mkv
+|   |-- 20210608_Vergangenheitskaddi vs. Zukunftskaddi ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #2.mkv
+|   |-- 20210621_Außerirdische Quallen ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #3.mkv
+|   |-- 20210709_Mum, darf ich Content Creator werden？ ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #4.mkv
+|   |-- 20210723_Tauben, Spucke und dicke Bäume ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #5.mkv
+|   |-- 20210805_Das Auge des Kindes und das Auge des Jetzt ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast.mkv
+|   |-- 20210826_STABIL ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #7.mkv
+|   |-- 20210904_Suppen Suppen Suppe ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #8.mkv
+|   |-- 20210924_Es muss Schinken sein ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #9.mkv
+|   `-- 20211008_Zielstrebige Führungsperson ｜ Wir hören uns alle gegenseitig - Der Coldmirror-Podcast #10.mkv
+|-- WIWA
+|   |-- 20140929_Harry Potter und der Plastikpokal Teil 7 Trailer.mkv
+|   |-- 20140929_MCV vs. Harry P [WiWa Music Video].mkv
+|   |-- 20141001_Fresh Dumbledore - Echt Stil [WiWa Music Video].mkv
+|   |-- 20141019_Dringend aufs Klo (Probe) [WiWa Music Video].mkv
+|   |-- 20141020_WiWa Kanaltrailer.mkv
+|   |-- 20150910_Harry Potter und ein Stein Trailer (HD).mkv
+|   |-- 20150918_Harry Potter und ein Stein - Outtakes.mkv
+|   |-- 20150921_Harry Potter und der geheime Pornokeller Trailer [Full HD].mkv
+|   |-- 20151007_Fresh Dumbledore - Alles für die Kidz [WiWa Music Video] (HD).mkv
+|   |-- 20151016_Harry Potter und der geheime Pornokeller - Outtakes (HD).mkv
+|   |-- 20151113_Harry Potter und der Plastikpokal Trailer [Full HD].mkv
+|   |-- 20160209_Fresh Dumbledore feat. Hermi G - Mein Fleisch [WiWa Music Video] (HD).mkv
+|   |-- 20160510_Fresh Dumbledore - Potter stinkt (Chim Chimney) [WiWa Music Video] (HD).mkv
+|   |-- 20160630_Fresh Dumbledore feat. Hermi G - Dumbledore ist bei dir [WiWa Music Video] (HD).mkv
+|   |-- 20160802_Fresh Dumbledore feat. Hermi G - Wenn du denkst (HD - Remake).mkv
+|   |-- 20161110_Fresh Dumbledore - Bang Bang [WiWa Music Video] (HD).mkv
+|   |-- 20161125_Fresh Dumbledore - Tubal Uriah Butler [WiWa Music Video] (HD).mkv
+|   |-- 20170428_Rapping Hat feat. Fresh Dumbledore - Der rappende Hut [WiWa Music Video] (HD).mkv
+|   |-- 20170501_Fresh Dumbledore feat. Robert Prime - Die Milch machts [WiWa Music Video] (HD).mkv
+|   |-- 20170626_Die schwarzen untoten blutgetränkten Waschlappen - Tod [WiWa Music Video] (HD).mkv
+|   |-- 20170725_Fresh Dumbledore - Ich schlafe nie wieder [WiWa Music Video] (HD).mkv
+|   |-- 20170902_Fresh Dumbledore - Back to the Roots [WiWa Music Video] (HD).mkv
+|   |-- 20180206_Fresh Dumbledore - Nur ein Statist [WiWa Music Video] (HD).mkv
+|   |-- 20180530_Fresh D vs. MCV [WiWa Music Video] (HD).mkv
+|   |-- 20181120_Fresh Dumbledore - Halt die Fresse, Hagrid [WiWa Music Video] (HD).mkv
+|   |-- 20190802_Die schwarzen untoten blutgetränkten Waschlappen - Friedhof [WiWa Music Video] (HD).mkv
+|   |-- 20201013_Fresh Dumbledore - Feines Schwein [WiWa Music Video] (HD).mkv
+|   |-- 20230911_Es gibt Neuigkeiten....mkv
+|   `-- 20231030_Die Chroniken von Fresh Dumbledore (Teaser).mkv
+|-- YouTube Kanal
+|   |-- 20061003_Normi Potter 0.5.mkv
+|   |-- 20061003_Normi Potter (gegen den Stein der Weisen).mkv
+|   |-- 20061003_Normi Potter (und die Toilette des Schreckens).mkv
+|   |-- 20061004_Amy Gordan vom FBI und der alte Bauer.mkv
+|   |-- 20061010_EY! BIST DU TRAURIG？？.mkv
+|   |-- 20061010_Ha ha ha..mkv
+|   |-- 20061010_Hi!.mkv
+|   |-- 20061010_Mini Playback Show Terror.mkv
+|   |-- 20061010_Napf+Gnabbl.mkv
+|   |-- 20061010_Prinzessin Tausendschön (Rohversion).mkv
+|   |-- 20061020_meow....mkv
+|   |-- 20061027_deine mutter lutscht schwänze in der hölle.mp4
+|   |-- 20061027_Unterschwellige Botschaft.mkv
+|   |-- 20061106_macabre drawing....mp4
+|   |-- 20061110_Der Bürgermeister und das Frosch-Schutz-Sumpfgebiet....mkv
+|   |-- 20061110_World Gone Wild.mkv
+|   |-- 20061117_Amy Gordan vom FBI und das mysteriöse Mädchen.mkv
+|   |-- 20061117_Der Fahrrad-Gangster aus'm Wald.mp4
+|   |-- 20061117_Ich geh schwimmen..mp4
+|   |-- 20070214_Kaddi und Clo bei McDonalds (nach Saw 3).mkv
+|   |-- 20070314_Doofmann.mkv
+|   |-- 20070529_The Movies： Bis dass der Tod uns tötet.mkv
+|   |-- 20070531_Du kanns ganich kacken..mkv
+|   |-- 20070621_Die Bezaubernde Jeannie.mkv
+|   |-- 20070626_Captain Jack Sparrow sagt seine Meinung..mkv
+|   |-- 20070723_Liebe ist süß....mkv
+|   |-- 20070812_World Gone Wild (MixX).mkv
+|   |-- 20070815_The Movies - Korridor der Verwirrung.mkv
+|   |-- 20071022_coldmirror - Das Interview part1⧸2.mkv
+|   |-- 20071022_coldmirror - Das Interview part2⧸2.mkv
+|   |-- 20071112_Tribute to Clo.mkv
+|   |-- 20071121_Arabella - Erkan und Tarkan streiten sich.mkv
+|   |-- 20071221_＂Killertee＂.mkv
+|   |-- 20071224_Das neue 8te Harry Potter Buch!!!.mkv
+|   |-- 20080108_Die Tastatur des Grauens.mkv
+|   |-- 20080201_Scheiße.mkv
+|   |-- 20080205_death by horse cock reaction.mkv
+|   |-- 20080214_Valentinsgeschenkchen.mkv
+|   |-- 20080228_Zu Besuch bei Haui und seiner Katze.mkv
+|   |-- 20080304_WG Mäuschen.mkv
+|   |-- 20080312_Unifilmprojekt： Willkommen Zurück.mkv
+|   |-- 20080312_Willkommen Zurück Outtakes.mkv
+|   |-- 20080417_Zu Besuch bei Simon und toffa.mkv
+|   |-- 20080518_Ganz gewöhnliche Werbung.mkv
+|   |-- 20080526_Neue verbesserte Werbung.mkv
+|   |-- 20080602_Ungewöhnliche Dance Moves.mkv
+|   |-- 20080604_＂Tribute to Clo＂ by aequitaS feat. StrawbellyCake.mkv
+|   |-- 20080617_Hogbeats FM Interview mit Fresh D. 1⧸3.mkv
+|   |-- 20080617_Hogbeats FM Interview mit Fresh D. 2⧸3.mkv
+|   |-- 20080617_Hogbeats FM Interview mit Fresh D. 3⧸3.mkv
+|   |-- 20080730_Fresh D. - Tshirt Werbung.mkv
+|   |-- 20080808_Stupid Center.mkv
+|   |-- 20080810_Pimmel Battle.mkv
+|   |-- 20080909_1. VLOG (von ＊will-nicht-erkannt-werden＊).mkv
+|   |-- 20080923_SCARY KORINNA.mkv
+|   |-- 20080929_KWiNK schreit jetzt weniger..mkv
+|   |-- 20081002_Fresh D und seine Homies.mkv
+|   |-- 20081007_REACTIONS - Ekelhafte Videos.mkv
+|   |-- 20081021_Harry Potter Zeitschriften PATZER Folge 1.mkv
+|   |-- 20081027_2. VLOG (von Dörte Sánchez).mkv
+|   |-- 20081031_Mysteriöse Mysterien.mkv
+|   |-- 20081109_Spastibeat 3000.mkv
+|   |-- 20081113_Xtreme Dumbledore (goez Metal).mkv
+|   |-- 20081202_Bei Anruf Mord!.mkv
+|   |-- 20081202_＂coldmirror＂ Account reaktiviert - Statement.mkv
+|   |-- 20081208_Ich habe kein Secret Talent..mkv
+|   |-- 20081216_Fresh D. Album ＂Tubal Uriah Butler＂ OUT NOW!!.mkv
+|   |-- 20090105_Der Drucker aus der Hölle.mkv
+|   |-- 20090116_Grüngirl - Grünman ihm seine Vetretung..mkv
+|   |-- 20090120_3. VLOG (von Jerry).mkv
+|   |-- 20090203_Neulich unter der Dusche..mkv
+|   |-- 20090214_Büro Alltag bei Warner Bros.mkv
+|   |-- 20090228_Geschlechtsverkehr Battle.mkv
+|   |-- 20090326_Kleiner Fallout 3 Bug.mkv
+|   |-- 20090331_Korridor.mkv
+|   |-- 20090417_HAL 9000 UND ICH.mkv
+|   |-- 20090424_4. VLOG (mit Zombies).mkv
+|   |-- 20090507_Sie stinken..mkv
+|   |-- 20090523_The Movies： Weltraum Terror.mkv
+|   |-- 20090605_Geht wählen oder STERBT!!!.mkv
+|   |-- 20090624_Moysees! (Mäuschen beim fressen).mkv
+|   |-- 20090630_News von Harry.mkv
+|   |-- 20090713_Dougie sabbelt.mkv
+|   |-- 20090716_Harry Potter BRBRBROUWNEEZ.mkv
+|   |-- 20090730_Harry Potter Zeitschriften PATZER Folge 2 (für'n Arsch).mkv
+|   |-- 20090730_HP Zeitschriften PATZER Folge 2 (für Kids).mkv
+|   |-- 20090805_5. VLOG (inoffiziell präsentiert von ＂Fünf＂).mkv
+|   |-- 20090820_Obi Kenobi - Der Pullovermann.mkv
+|   |-- 20090821_51 things I found around my house..mkv
+|   |-- 20090824_Miss Tutorial.mkv
+|   |-- 20090901_Zu Besuch in meinem ＂Kinderzimmer＂.mkv
+|   |-- 20090930_what the FAQ？!.mkv
+|   |-- 20091006_Coldmirror Blog Intro.mkv
+|   |-- 20091013_Herzlichen Glückwunsch, du bist alt....mkv
+|   |-- 20091015_Der Grund..mkv
+|   |-- 20091022_aequitaS - Ode to Jam II.mkv
+|   |-- 20091023_Hommage an ein Filmklischee.mkv
+|   |-- 20091123_Was wäre wenn Youtube das reale Leben wäre？.mkv
+|   |-- 20091224_Ho ho ho!.mkv
+|   |-- 20100128_Xenomorph Speed Drawing.mkv
+|   |-- 20100306_Gold per Brief.mkv
+|   |-- 20100319_Filmprojekt ＂Escape＂.mkv
+|   |-- 20100527_Deine Mudda!.mkv
+|   |-- 20101004_coldmirror - Die TV-Sendung!!!.mkv
+|   |-- 20101101_Worte an der Wand... (Horrorgeschichte).mkv
+|   |-- 20101110_My Name Is Jerry-sha (Fake Trailer).mkv
+|   |-- 20101225_Harry Potter und schon wieder irgendwas - Das Hörspiel.mkv
+|   |-- 20110321_Gehirn ®.mkv
+|   |-- 20110427_Harry Potter und Zitronenbonbons - das Hörspiel.mkv
+|   |-- 20110601_Deine Kinder schlüpfen nicht..mkv
+|   |-- 20110601_Der Bürgermeister und das Frosch-Schutz-Sumpfgebiet....mkv
+|   |-- 20110601_Der Fahrrad-Gangster aus'm Wald.mkv
+|   |-- 20110601_Hi!.mkv
+|   |-- 20110601_Ich geh schwimmen..mkv
+|   |-- 20110601_Kaddi und Clo bei McDonalds (nach Saw 3).mkv
+|   |-- 20110601_meow....mkv
+|   |-- 20110601_Normi Potter 0.5.mkv
+|   |-- 20110601_Normi Potter (gegen den Stein der Weisen).mkv
+|   |-- 20110601_Unterschwellige Botschaft.mkv
+|   |-- 20110601_World Gone Wild.mkv
+|   |-- 20110602_Captain Jack Sparrow sagt seine Meinung.mkv
+|   |-- 20110602_coldmirror - Das Interview part1.mkv
+|   |-- 20110602_coldmirror - Das Interview part2.mkv
+|   |-- 20110602_Die Bezaubernde Jeannie.mkv
+|   |-- 20110602_Doofmann.mkv
+|   |-- 20110602_Du kanns ganich kacken..mkv
+|   |-- 20110602_Liebe ist süß....mkv
+|   |-- 20110602_World Gone Wild (MixX).mkv
+|   |-- 20110713_Neues Fresh D Album - DUMBLECORE!!!.mkv
+|   |-- 20110904_Ein ganz normaler Arbeitstag.mkv
+|   |-- 20120204_Kathrinception (Kaddis Cut).mkv
+|   |-- 20120307_Arwens Vlog (Kaddis Cut).mkv
+|   |-- 20120403_The Lost Tapes #1.mkv
+|   |-- 20120417_Sönki und Kaddi in London.mkv
+|   |-- 20120623_EISKALTE KILLERMÄUSE ZERFETZEN 60-JÄHRIGE.mkv
+|   |-- 20120709_Prinzessin Leia - Die Reportage (Kaddis Cut).mkv
+|   |-- 20120826_FRESH Ds FRESHE DEKO.mkv
+|   |-- 20121016_Fresh Ds ＂Workstatt＂.mkv
+|   |-- 20121110_＂Meine Ausbildung＂ Videowettbewerb mit Wakeshimu.mkv
+|   |-- 20121111_Spastro TV (uncut!).mkv
+|   |-- 20121128_HarRING Potter (extended).mkv
+|   |-- 20121218_fett geil..mkv
+|   |-- 20130112_Die Erkenntnis.mkv
+|   |-- 20130315_Lets Play Kaddis Leben Simulator 3000 (by rottenbunnycorpseLP).mkv
+|   |-- 20130403_Das Leben der Superreichen (uncut + Outtakes!).mkv
+|   |-- 20130413_Lets Play RetardZ (by rottenbunnycorpseLP).mkv
+|   |-- 20130417_Wie Zombie Survival MMOs sein sollten.mkv
+|   |-- 20130418_OuttakeZ.mkv
+|   |-- 20130502_Fresh D - ＂Musikvideo＂ UNCUT.mkv
+|   |-- 20130604_Kanal-Trailer.mkv
+|   |-- 20130606_Lets Play The Schlimms (by rottenbunnycorpseLP).mkv
+|   |-- 20130607_The Schlimms Outtakes.mkv
+|   |-- 20130712_The Lost Tapes #2.mkv
+|   |-- 20130801_Der Umzug.mkv
+|   |-- 20130806_FreshD - ＂Die Alten＂.mkv
+|   |-- 20130810_Filmszenen..mkv
+|   |-- 20130904_FreshDs fedder Beat.mkv
+|   |-- 20130912_Lets Play Slender (by rottenbunnycorpseLP).mkv
+|   |-- 20130923_Coldmirrors Cooking Corner - Bratkartoffeln mit Bifi.mkv
+|   |-- 20131014_hr Videowettbewerb ＂Meine Ausbildung＂.mkv
+|   |-- 20131016_Die Ökonachbarin.mkv
+|   |-- 20131107_Coldmirrors Cooking Corner - Kaddi und Süßi Soße.mkv
+|   |-- 20131129_Entspannendes Angelvideo.mkv
+|   |-- 20131208_Wie fühlt sich eigentlich ein Locher？.mkv
+|   |-- 20131217_Unboxing iPhone 15.mkv
+|   |-- 20131229_Jurassic Park, nachgespielt..mkv
+|   |-- 20140121_Molly Cocktail.mkv
+|   |-- 20140217_KRAMSS - Youtube Kommentare, Hate⧸Troll-Kultur.mkv
+|   |-- 20140307_Fresh D - Sit'n'Dance.mkv
+|   |-- 20140313_KRAMSS - Überraschungseier und Sexismus.mkv
+|   |-- 20140328_Bibi & Tina - schlampige Death Metal Version.mkv
+|   |-- 20140410_KRAMSS - DAS INTERNET!1!lol.mkv
+|   |-- 20140503_Gülle-Man und das Problem mit der Kuh.mkv
+|   |-- 20140508_KRAMSS - 30 Jahre Tetris.mkv
+|   |-- 20140519_Deutschland ist Zahlmeister der EU.mkv
+|   |-- 20140520_Sinnlose Gesetze der EU.mkv
+|   |-- 20140521_Die EU ist ein Wanderzirkus.mkv
+|   |-- 20140525_Kunstwissenschaftliche Analyse - Wahlplakat CDU.mkv
+|   |-- 20140621_Hilfe, mein Haus sieht scheiße aus, bau mir'n neues!.mkv
+|   |-- 20141113_＂Ein Stern in dieser DVD＂.mkv
+|   |-- 20141204_hr Videowettbewerb ＂Du führst Regie＂.mkv
+|   |-- 20150116_Cooly McHammerdose gegen die ZombieApocalypse.mkv
+|   |-- 20150122_＊＊Animescheiße＊＊.mkv
+|   |-- 20150206_How to Video Video #1 - Von der Idee zur Geschichte.mkv
+|   |-- 20150210_How to Video Video #2 - Drehbuch (der Film im Kopf).mkv
+|   |-- 20150215_10 Jahre Youtube.mkv
+|   |-- 20150224_How to Video Video #3 - (Halt die) Klappe und Action.mkv
+|   |-- 20150304_How to Video Video #4 - Le Schnitt.mkv
+|   |-- 20150508_Normal Combat.mkv
+|   |-- 20150509_Normal Combat Outtakes.mkv
+|   |-- 20150519_The Ring (Date) Tape.mkv
+|   |-- 20150709_204863.mkv
+|   |-- 20150724_Grauhörnchen Mémoire.mkv
+|   |-- 20150928_Lets Play The Schlimms Romanze und Karriere (by rottenbunnycorpseLP).mkv
+|   |-- 20151107_Fresh Ds Gebiss Trick Shots!.mkv
+|   |-- 20151116_Spechelle's Specialities - Brocken Brühe.mkv
+|   |-- 20151130_Sinnlose Klimakonferenzen.mkv
+|   |-- 20151202_CO2 Fußabdruck.mkv
+|   |-- 20151209_Die Ökodiktatur.mkv
+|   |-- 20151221_Rentner Extreme Sports!!.mkv
+|   |-- 20151229_Spechelle's Specialities - Breakfast Schlabberschlonze.mkv
+|   |-- 20160212_Fresh D - Frisch ausm Rhymebook.mkv
+|   |-- 20160319_Spechelle's Specialities - Kartoffel Klumpatsch.mkv
+|   |-- 20160328_Krassester Fan EVER.mkv
+|   |-- 20161002_10 Jahre coldmirror.mkv
+|   |-- 20161010_hr Videowettbewerb - Meine Ausbildung 2017.mkv
+|   |-- 20161208_Phantastische Tierwesen.mkv
+|   |-- 20170614_Ein beschissenes Blinddate ｜ Trustory.mkv
+|   |-- 20171004_hr Videowettbewerb - Meine Ausbildung 2018.mkv
+|   |-- 20171123_Kacke übersetzte Filmtitel.mkv
+|   |-- 20180205_＂think before you post＂.mkv
+|   |-- 20180222_HATE SPEECH.mkv
+|   |-- 20180603_Marmelaber - Harry Potter Fragen.mkv
+|   `-- 20200129_Curious Expedition Rivals - Gamecheck YOUbiläum.mkv
+|-- sync.ffs_lock
+`-- tree_clean.txt
