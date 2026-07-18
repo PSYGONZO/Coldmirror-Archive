@@ -81,6 +81,13 @@
 |-- Date Tape
 |   |-- 20150207_DATE TAPE - DIE PARTNERBÖRSE.mkv
 |   `-- 20160109_Date Tape „Hauke“ mit Coldmirror.mkv
+|-- Die Schwarzen Untoten Blutgetränkten Waschlappen
+|   |-- 20090726_Die schwarzen blutgetränkten untoten Waschlappen.mkv
+|   |-- 20090726_DsubW - Auf dem Friedhof.mkv
+|   |-- 20090726_DsubW - Die schwarzen blutgetränkten untoten Waschlappen.mkv
+|   |-- 20090726_DsubW - Hexakosioihexekontahexaphobie.mkv
+|   |-- 20090726_DsubW - Satan.mkv
+|   `-- 20090726_DsubW - Tod.mkv
 |-- Divers
 |   |-- 20110822_Coldmirror auf der Gamescom ｜ YOU FM.mkv
 |   |-- 20111130_Coldmirror Videowettbewerb - Meine Ausbildung.mkv
@@ -284,7 +291,6 @@
 |   |-- 20081229_Fresh Dumbledore Partytrack.mkv
 |   |-- 20090103_Dumbi vs Voldi.mkv
 |   |-- 20090103_Fresh D und seine Homies.mkv
-|   |-- 20090103_Fresh Dumbledore Alles für die Kidz.mkv
 |   |-- 20090103_Fresh Dumbledore Back from the underground.mkv
 |   |-- 20090103_Fresh Dumbledore Bang Bang.mkv
 |   |-- 20090103_Fresh Dumbledore Bibi´s Block.mkv
@@ -356,6 +362,10 @@
 |   |-- 20110713_Fresh D. - Im Altenheim (feat. Körperflleisch Kommando Krew).mkv
 |   |-- 20110713_Fresh D. - Nur ein Statist.mkv
 |   |-- 20110713_Fresh D. - Vergilbte Philosophie (feat. DJ DeLuc).mkv
+|   |-- 20120427_Fresh Dumbledore  - Alles für die Kids.mkv
+|   |-- 20120427_Fresh Dumbledore - Halt die Fresse Hagrid.mkv
+|   |-- 20120427_Fresh Dumbledore - Partytrack.mkv
+|   |-- 20120427_Fresh Dumbledore - Wo ist mein Hörgerät.mkv
 |   |-- 20130608_Fresh D. - Attack of the Tromaggot [HD-Sound].mkv
 |   |-- 20130608_Fresh D. - Back to the Roots [HD-Sound].mkv
 |   |-- 20130608_Fresh D. - Dicke Muddaliebe feat. Sönke alias DirtyKingBalla [HD-Sound].mkv
@@ -417,6 +427,7 @@
 |   |-- 20110325_Lara Croft and the Guardian of Light - YOUFM GameCheck.mkv
 |   |-- 20110326_Fallout New Vegas - YOUFM GameCheck.mkv
 |   |-- 20110326_Minecraft - YOUFM GameCheck.mkv
+|   |-- 20110718_Alice： Madness Returns - YOU FM Game Check mit Coldmirror.mkv
 |   |-- 20110726_Black Prophecy -  YOUFM Gamecheck.mkv
 |   |-- 20110726_Die Siedler Online - YOUFM Gamecheck.mkv
 |   |-- 20110726_Harry Potter und die Heiligtümer des Todes Teil 1 - YOUFM Gamecheck.mkv
@@ -438,7 +449,13 @@
 |   |-- 20111121_Glowfish - YOU FM Game Check mit Coldmirror.mkv
 |   |-- 20111205_Anno 2070 - YOU FM Game Check mit Coldmirror.mkv
 |   |-- 20111219_The Elder Scrolls 5 - Skyrim - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120104_Angry Birds Chrome - YOUFM Gamecheck.mkv
+|   |-- 20120104_Duke Nukem Forever - YOUFM Gamecheck.mkv
 |   |-- 20120110_Jurassic Park - YOU FM Game Check mit Coldmirror.mkv
+|   |-- 20120120_Cars 2 - YOUFM Gamecheck.mkv
+|   |-- 20120120_Terraria - YOUFM Gamecheck.mkv
+|   |-- 20120121_From Dust - YOUFM Gamecheck.mkv
+|   |-- 20120121_Limbo - YOUFM Gamecheck.mkv
 |   |-- 20120123_Star Wars - The Old Republic - YOU FM Game Check mit Coldmirror.mkv
 |   |-- 20120206_Deponia - YOU FM Game Check mit Coldmirror.mkv
 |   |-- 20120220_Unstoppable Gorg - YOU FM Game Check mit Coldmirror.mkv
@@ -470,9 +487,10 @@
 |   |-- 20130311_YOU FM Game Check - Crysis 3.mkv
 |   |-- 20130325_YOU FM Game Check Tomb Raider.mkv
 |   |-- 20130408_YOU FM Game Check Sim City.mkv
+|   |-- 20130425_Assassin's Creed III - YOUFM Gamecheck.mkv
 |   |-- 20130517_Tomb Raider - YOUFM Gamecheck.mkv
 |   |-- 20130521_Don't Starve - Gamecheck.mkv
-|   `-- 20200129_Curious Expedition Rivals - Gamecheck YOUbiläum.mkv
+|   `-- 20200128_Curious Expedition Rivals - Gamecheck YOUbiläum.mkv
 |-- Google Übersetzer-Satzvervollständigunsroboter
 |   |-- 20200507_Total inspirierende Zitate &amp; Google Übersetzer.mkv
 |   |-- 20220412_Kochen mit Satzvervollständigungsroboter.mkv
@@ -676,6 +694,9 @@
 |   |-- 20100319_Kaddi spielt ＂Avatar＂ (Part 13).mkv
 |   |-- 20100319_Kaddi spielt ＂Avatar＂ (Part 14).mkv
 |   |-- 20100319_Kaddi spielt ＂Avatar＂ (Part 15 - letzter Part!).mkv
+|   |-- 20100506_Heavy Rain Impressionen.mkv
+|   |-- 20100714_Xeno Tactic - All Time Favourite.mkv
+|   |-- 20100721_Ubisofts Online-Zwang.mkv
 |   |-- 20100828_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 1.mkv
 |   |-- 20100828_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 2.mkv
 |   |-- 20100829_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 3.mkv
@@ -683,6 +704,7 @@
 |   |-- 20100911_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 5.mkv
 |   |-- 20100911_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 6.mkv
 |   |-- 20100911_Kaddi spielt ＂HP u. d. Halbblutprinz＂ Part 7 (letzter Part!).mkv
+|   |-- 20101108_Fallout New Vegas Bugs.mkv
 |   |-- 20101214_Kaddi spielt  ＂HP u.d. Heiligtümer des Todes＂ Part 1.mkv
 |   |-- 20101214_Kaddi spielt  ＂HP u.d. Heiligtümer des Todes＂ Part 2.mkv
 |   |-- 20101214_Kaddi spielt  ＂HP u.d. Heiligtümer des Todes＂ Part 3.mkv
@@ -690,6 +712,7 @@
 |   |-- 20101214_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 5.mkv
 |   |-- 20101214_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 6.mkv
 |   |-- 20101214_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 8.mkv
+|   |-- 20101214_Mein Minecraft Haus.mkv
 |   |-- 20101215_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 7.mkv
 |   |-- 20101216_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 9.mkv
 |   |-- 20101216_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 10.mkv
@@ -700,11 +723,13 @@
 |   |-- 20101217_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 15.mkv
 |   |-- 20110120_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 16.mkv
 |   |-- 20110120_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 17.mkv
+|   |-- 20110120_Unser Minecraft Dorf (Multiplayer).mkv
 |   |-- 20110508_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 18.mkv
 |   |-- 20110508_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 19.mkv
 |   |-- 20110510_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 20.mkv
 |   |-- 20110510_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 21.mkv
 |   |-- 20110514_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 22.mkv
+|   |-- 20111015_Kloine L.A. Noire Parodie.mkv
 |   |-- 20120104_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 23.mkv
 |   |-- 20120104_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 24.mkv
 |   |-- 20120104_Kaddi spielt ＂HP u.d. Heiligtümer des Todes＂ Part 25.mkv
@@ -816,7 +841,7 @@
 |   |-- 20160210_Kunstanalyse mit Coldmirror： ＂Madcon & Ray Dalton＂.mkv
 |   |-- 20160223_Kunstwissenschaftliche Analyse - Modern Talking.mkv
 |   |-- 20160306_Kunstwissenschaftliche Analyse - Marilyn Manson.mkv
-|   `-- 20231117_Kunstwissenschaftliche Analyse - Britney Spears.mkv
+|   `-- 20231113_Kunstwissenschaftliche Analyse - Britney Spears.mkv
 |-- Kunsttips mit  Hauke
 |   |-- 20131118_Haukes Kunst Tipps #1 - Kunstwerk.mkv
 |   |-- 20140202_Haukes Kunst Tipps #2 - Kartoffeldruck.mkv
@@ -932,11 +957,6 @@
 |   |-- Die kleine Wasserflaschen-Musik - YOU FM Netmob mit Coldmirror.mp4
 |   |-- Getanzte Worte - YOU FM Netmob mit Coldmirror.mkv
 |   `-- ＊kicher＊ ＊rofl＊ ＊lol＊ - YOU FM Netmob mit Coldmirror.mkv
-|-- Other
-|   |-- 20170614_Ein beschissenes Blinddate ｜ Trustory.mkv
-|   |-- 20200128_Curious Expedition Rivals - Gamecheck YOUbiläum.mkv
-|   |-- 20231113_Kunstwissenschaftliche Analyse - Britney Spears.mkv
-|   `-- 20260615_Sporno.mkv
 |-- Spechelle's Specialities
 |   |-- 20151002_Spechelle's Specialities ＂Brockenbrühe＂.mkv
 |   |-- 20151107_Spechelle's Specialities ＂Schlabberschlonze＂.mkv
@@ -984,18 +1004,15 @@
 |-- Synchros
 |   |-- Anne Will's Wissen
 |   |	|-- 20130501_Anne Will's Wissen.mkv
-|   |	|-- Anne Will's Wissen.txt
-|   |	`-- Hashes.txt
+|   |	`-- Anne Will's Wissen.txt
 |   |-- Back to the Future
 |   |	|-- 20121004_Zurück in deine Mudda - coldmirror Impro Synchro.mkv
 |   |	|-- Berrg turr durr Fjerterr.mp4
-|   |	|-- Berrg turr durr Fjerterr.txt
-|   |	`-- Hashes.txt
+|   |	`-- Berrg turr durr Fjerterr.txt
 |   |-- Der Zauberer von OZ - Die Dorothy Schlampe
 |   |	|-- 20121001_Wizard of Oz 'Die Dorothy Schlampe' - Coldmirror Impro Synchro.mkv
 |   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 2 - coldmirror Impro Synchro.mkv
-|   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 3 - coldmirror Impro Synchro.mkv
-|   |	`-- Hashes.txt
+|   |	`-- 20130305_Wizard of Oz - Die Dorothy Schlampe 3 - coldmirror Impro Synchro.mkv
 |   |-- Divers
 |   |	|-- 20110602_The Movies - Korridor der Verwirrung.mkv
 |   |	|-- 20110602_The Movies- Bis dass der Tod uns tötet.mkv
@@ -1006,8 +1023,7 @@
 |   |	|-- 20200425_DRAMA™.mkv
 |   |	`-- 20221222_💔.mkv
 |   |-- Fluch der Karibik
-|   |	|-- 20121001_Fluch der Karibik - Coldmirror Impro Synchro.mkv
-|   |	`-- Hashes.txt
+|   |	`-- 20121001_Fluch der Karibik - Coldmirror Impro Synchro.mkv
 |   |-- Hannibal
 |   |	|-- 20131004_Hannibal⧸Firlefanz.mkv
 |   |	|-- Dumme Hannibal Synchro.mp4
@@ -1016,21 +1032,16 @@
 |   |	|-- Hannibal - Entrée (Impro-Synchro mit Sönke und Kaddi).mp4
 |   |	|-- Hannibal - Po Tage und Zeeeuuuf (Impro-Synchro mit Sönke und Kaddi).mp4
 |   |	|-- Hannibal - Sorbet (Impro-Synchro mit Sönke und Kaddi).mp4
-|   |	|-- Hannibal_Firlefanz.txt
-|   |	`-- Hashes.txt
+|   |	`-- Hannibal_Firlefanz.txt
 |   |-- In 7 Tagen bist du tot
-|   |	|-- Hashes.txt
 |   |	`-- In 7 Tagen bist du tot.mp4
 |   |-- Kleine behinderte Avengers Synchro
-|   |	|-- Hashes.txt
 |   |	|-- Kleine behinderte Avengers Synchro.mp4
 |   |	|-- Kleine behinderte Avengers Synchro.txt
 |   |	`-- SHA256.sh
 |   |-- Lord Of The Rings - Gandalf der Penner
 |   |	|-- 20121005_HDR 'Elrond hat Geburtstag' - coldmirror Impro Synchro.mkv
-|   |	|-- Hashes.txt
-|   |	|-- Lord Of The Rings - Gandalf der Penner.mp4
-|   |	`-- SHA256.sh
+|   |	`-- Lord Of The Rings - Gandalf der Penner.mp4
 |   |-- Politiker
 |   |	|-- 20110706_Angie in Bremen - YOU FM Synchro mit Coldmirror.mkv
 |   |	|-- 20110804_Obama bei der Feuerwehr  - YOU FM Synchro mit Coldmirror.mkv
@@ -1074,15 +1085,12 @@
 |   |	|-- Obamas Rap-Konzert - YOU FM Synchro mit Coldmirror.mkv
 |   |	`-- Präsidenten Lifestyle - YOU FM Synchro mit Coldmirror.mkv
 |   |-- Potter pwnage
-|   |	|-- Hashes.txt
 |   |	|-- Potter pwnage.mp4
 |   |	`-- Potter pwnage.txt
 |   |-- Shitty Shitty Bang Bang
-|   |	|-- Hashes.txt
 |   |	`-- Shitty Shitty Bang Bang (Impro-Synchro).mp4
 |   |-- Star Trek
 |   |	|-- 20130516_Star Trek - Speck ist super.mkv
-|   |	|-- Hashes.txt
 |   |	|-- Star Trek - Speck ist super.txt
 |   |	`-- Star Trek Rentnerkreis (Impro-Synchro).mp4
 |   |-- Tatort
@@ -1093,7 +1101,6 @@
 |   |	|-- 20170321_Tatort Synchro - Funcamp.mkv
 |   |	`-- 20170404_Tatort Synchro - Logo Meeting.mkv
 |   `-- Unsinn und Sinnlosigkeit
-|	|-- Hashes.txt
 |	|-- Tatsächlich dumm (ZENSIERT ohne Titten).mp4
 |	|-- Unsinn und Sinnlosigkeit - Teil 1.mp4
 |	`-- Unsinn und Sinnlosigkeit - Teil 2.mp4
@@ -1108,6 +1115,9 @@
 |   |-- 20251219_TELEKADDI – Der Zauberer von Oz-Best.mkv
 |   |-- 20260220_TELEKADDI - GO GO Recycle Rangers!.mkv
 |   `-- 20260603_TELEKADDI – Was zum Mondstein？!.mkv
+|-- Unsortiert
+|   |-- 20170614_Ein beschissenes Blinddate ｜ Trustory.mkv
+|   `-- 20260615_Sporno.mkv
 |-- WIWA
 |   |-- 20140929_Harry Potter und der Plastikpokal Teil 7 Trailer.mkv
 |   |-- 20140929_MCV vs. Harry P [WiWa Music Video].mkv
