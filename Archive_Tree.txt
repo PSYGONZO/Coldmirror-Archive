@@ -159,6 +159,44 @@
 |   |-- 20190820_Drawn Dreams #9 - Hund.mkv
 |   |-- 20200903_Drawn Dreams #10 - Battle Royale.mkv
 |   `-- 20201015_Drawn Dreams #11 - Schattengestalt.mkv
+|-- EinsFestival TV Serie
+|   |-- 20101008_coldmirror - Die TV-Sendung (Staffel 1 - Episode 1) [HQ].mkv
+|   |-- 20101104_coldmirror - Die TV-Sendung (Staffel 1 - Episode 2) [HQ].mkv
+|   |-- 20101202_coldmirror - Die TV-Sendung (Staffel 1 - Episode 3) [HQ].mkv
+|   |-- 20110106_coldmirror - Die TV-Sendung (Staffel 1 - Episode 4) [HQ].mkv
+|   |-- 20110203_coldmirror - Die TV-Sendung (Staffel 1 - Episode 5) [HQ].mkv
+|   |-- 20110303_coldmirror - Die TV-Sendung (Staffel 1 - Episode 6) [HQ].mkv
+|   |-- 20110407_coldmirror - Die TV-Sendung (Staffel 1 - Episode 7) [HQ].mkv
+|   |-- 20110505_coldmirror - Die TV-Sendung (Staffel 1 - Episode 8) [HQ].mkv
+|   |-- 20110602_coldmirror - Die TV-Sendung (Staffel 1 - Episode 9) [HQ].mkv
+|   |-- 20110706_coldmirror - Die TV-Sendung (Staffel 1 - Episode 10) [HQ].mkv
+|   |-- 20110804_coldmirror - Die TV-Sendung (Staffel 1 - Episode 11) [HQ].mkv
+|   |-- 20110901_coldmirror - Die TV-Sendung (Staffel 1 - Episode 12 - Staffelfinale) Teil 1⧸2 [HQ].mkv
+|   |-- 20110901_coldmirror - Die TV-Sendung (Staffel 1 - Episode 12 - Staffelfinale) Teil 2⧸2 [HQ].mkv
+|   |-- 20111201_coldmirror - Die TV-Sendung (Staffel 2 - Episode 1) [HQ].mkv
+|   |-- 20120105_coldmirror - Die TV-Sendung (Staffel 2 - Episode 2).mkv
+|   |-- 20120203_coldmirror - Die TV-Sendung (Staffel 2 - Episode 3) [HQ⧸Cut].mkv
+|   |-- 20120301_coldmirror - Die TV-Sendung (Staffel 2 - Episode 4).mkv
+|   |-- 20120405_coldmirror - Die TV-Sendung (Staffel 2 - Episode 5) [HQ].mkv
+|   |-- 20120503_coldmirror - Die TV-Sendung (Staffel 2 - Episode 6) [HQ].mkv
+|   |-- 20120607_coldmirror - Die TV-Sendung (Staffel 2 - Episode 7) [HD].mkv
+|   |-- 20120706_coldmirror - Die TV-Sendung (Staffel 2 - Episode 8) [HD].mkv
+|   |-- 20120802_coldmirror - Die TV-Sendung (Staffel 2 - Episode 9) [HD].mkv
+|   |-- 20120906_coldmirror - Die TV-Sendung (Staffel 2 - Episode 10) [HD].mkv
+|   |-- 20121004_coldmirror - Die TV-Sendung (Staffel 2 - Episode 11) [HD].mkv
+|   |-- 20121101_coldmirror - Die TV-Sendung (Staffel 2 - Episode 12 - Staffelfinale) [HD].mkv
+|   |-- 20130207_coldmirror - Die TV-Sendung (Staffel 3 - Episode 1) [HD].mkv
+|   |-- 20130307_coldmirror - Die TV-Sendung (Staffel 3 - Episode 2) [HD⧸Cut].mkv
+|   |-- 20130404_coldmirror - Die TV-Sendung (Staffel 3 - Episode 3) [HD].mkv
+|   |-- 20130502_coldmirror - Die TV-Sendung (Staffel 3 - Episode 4) [HD⧸Cut].mkv
+|   |-- 20130606_coldmirror - Die TV-Sendung (Staffel 3 - Episode 5) [HD].mkv
+|   |-- 20130704_coldmirror - Die TV-Sendung (Staffel 3 - Episode 6) [HD].mkv
+|   |-- 20130801_coldmirror - Die TV-Sendung (Staffel 3 - Episode 7) [HD].mkv
+|   |-- 20130905_coldmirror - Die TV-Sendung (Staffel 3 - Episode 8) [HD].mkv
+|   |-- 20131003_coldmirror - Die TV-Sendung (Staffel 3 - Episode 9) [HD].mkv
+|   |-- 20131107_coldmirror - Die TV-Sendung (Staffel 3 - Episode 10) [HD].mkv
+|   |-- 20131205_coldmirror - Die TV-Sendung (Staffel 3 - Episode 11) [HQ].mkv
+|   `-- 20140102_coldmirror - Die TV-Sendung (Staffel 3 - Episode 12 - Staffelfinale) [HD].mkv
 |-- Film Zitate & Google Übersetzer
 |   |-- 20200326_Filmzitate & Google Übersetzer.mkv
 |   |-- 20200508_Total inspirierende Zitate & Google Übersetzer.mkv
@@ -559,67 +597,112 @@
 |   |-- 20140829_Coldmirror zu Gast bei GREY.mkv
 |   |-- 20160530_coldmirror – AMA (TINCON 2016).mkv
 |   |-- 20170626_Coldmirror im Interview - TINCON 2017.mkv
-|   `-- 20180211_Leben als Vorbild, Geld verdienen, YouTube-Entwicklung uvm. ｜ Coldmirror im Talk.mkv
+|   |-- 20180211_Leben als Vorbild, Geld verdienen, YouTube-Entwicklung uvm. ｜ Coldmirror im Talk.mkv
+|   |-- 20240313_Takeover mit Coldmirror- Warum roch Napoleon wie deine Oma, Ralph Caspers_.mp3
+|   |-- 20250000_Das Coldmirror Interview - jetzt für alle.mp3
+|   `-- Coldmirror im Hater-Interview.mp4
 |-- Japanoschlampen
 |   |-- 20111201_Die Japanoschlampen #1_Große Klopperei.mkv
+|   |-- 20111203_Japanoschlampen #1 - Die große Klopperei.mkv
 |   |-- 20120105_Japanoschlampen #2 - Familienbande.mkv
+|   |-- 20120106_Japanoschlampen #2 - Familienbande.mkv
 |   |-- 20120202_Japanoschlampen #3 - Tierischer Spaß.mkv
+|   |-- 20120203_Japanoschlampen #3 - Tierischer Spaß.mkv
 |   |-- 20120301_Japanoschlampen #4 - Meister Futsis Herausforderung.mkv
+|   |-- 20120302_Japanoschlampen #4 - Meister Futsis Herausforderung.mkv
 |   |-- 20120405_Japanoschlampen #5 - Süße Rache.mkv
+|   |-- 20120407_Japanoschlampen #5 - Süße Rache.mkv
 |   |-- 20120503_Japanoschlampen #6 - Eiskalt.mkv
+|   |-- 20120518_Japanoschlampen #6 - Eiskalt.mkv
 |   |-- 20120607_Japanoschlampen #7 - Chao VS Mototsu.mkv
+|   |-- 20120608_Japanoschlampen #7 - Chao VS Mototsu.mkv
 |   |-- 20120705_Japanoschlampen #8 - Operation Shopping.mkv
+|   |-- 20120720_Japanoschlampen #8 - Operation Shopping.mkv
 |   |-- 20120802_Japanoschlampen #9 - Fun am Strand.mkv
+|   |-- 20120804_Japanoschlampen #9 - Fun am Strand.mkv
 |   |-- 20120906_Japanoschlampen #10 - Wake gibt Gas!.mkv
+|   |-- 20120913_Japanoschlampen #10 - Wake gibt Gas!.mkv
 |   |-- 20121004_Japanoschlampen #11 - Ein langweiliger Regentag.mkv
+|   |-- 20121007_Japanoschlampen #11 - Ein langweiliger Regentag.mkv
 |   |-- 20121101_Japanoschlampen #12 - Chao ist krank.mkv
+|   |-- 20121114_Japanoschlampen #12 - Chao ist krank.mkv
 |   |-- 20130206_Japanoschlampen #13 - Neue Freunde.mkv
+|   |-- 20130207_Die Japanoschlampen ＂Neue Freunde＂ - YOU FM Anime mit Coldmirror.mkv
 |   |-- 20130307_Japanoschlampen #14 - Ein lustiger Ausflug.mkv
+|   |-- 20130308_Japanoschlampen #14 - Ein lustiger Ausflug.mkv
 |   |-- 20130404_Japanoschlampen #15 - Dein Freund und Helfer.mkv
+|   |-- 20130411_Japanoschlampen #15 - Dein Freund und Helfer.mkv
 |   |-- 20130502_Japanoschlampen #16 - Party Party Party!.mkv
+|   |-- 20130510_Japanoschlampen #16 - Party Party Party!.mkv
 |   |-- 20130606_Japanoschlampen Unverhofftes Wiedersehen.mkv
+|   |-- 20130704_Die Japanoschlampen ＂Unverhofftes Wiedersehen＂ - YOU FM Anime mit Coldmirror.mkv
 |   |-- 20130705_Japanoschlampen #17 - Schatten der Vergangenheit.mkv
 |   |-- 20130716_Japanoschlampen #18 - Unverhofftes Wiedersehen.mkv
 |   |-- 20130801_Japanoschlampen #19 - Viel Rummel um Nichts.mkv
+|   |-- 20130804_Japanoschlampen #19 - Viel Rummel um Nichts.mkv
 |   |-- 20130905_Japanoschlampen #20 - Stars und Sternchen.mkv
+|   |-- 20130907_Japanoschlampen #20 - Stars und Sternchen.mkv
 |   |-- 20130910_Japanoschlampen EXTRA - Kjoto Hotel.mkv
+|   |-- 20131003_Die Japanoschlampen ＂Ein abgekartertes Spiel＂ - YOU FM Anime mit Coldmirror.mkv
 |   |-- 20131003_Japanoschlampen #21 - Ein abgekartetes Spiel.mkv
 |   |-- 20131107_Japanoschlampen #22 - Ein grausamer Fluch.mkv
+|   |-- 20131110_Japanoschlampen #22 - Ein grausamer Fluch.mkv
 |   |-- 20131210_Japanoschlampen EXTRA - Mazukiyamaknatschnitasawufengtongseng.mkv
+|   |-- 20140102_Die Japanoschlampen ＂GESTERN UND HEUTE＂ - YOU FM Anime mit Coldmirror.mkv
+|   |-- 20140113_Japanoschlampen #23 - Das Sportfest.mkv
 |   |-- 20140205_Japanoschlampen #23 - Das Sportfest.mkv
 |   |-- 20140215_Japanoschlampen #24 - Gestern und Heute.mkv
 |   |-- 20140607_Japanoschlampen bis(s) zum Morgengrauen.mkv
+|   |-- 20141003_Japanoschlampen - THE MOVIE (Das supermega mysteriöse kackgruselige Horror Abenteuer).mkv
 |   |-- 20141005_Japanoschlampen - THE MOVIE (Das supermega mysteriöse kackgruselige Horror Abenteuer).mkv
 |   |-- 20141016_Japanoschlampen Movie - Langweiliges alternatives Ende.mkv
 |   |-- 20141106_Japanoschlampen #25 - Wo ist Puschi？.mkv
+|   |-- 20141118_Japanoschlampen #25 - Wo ist Puschi？.mkv
 |   |-- 20141204_Japanoschlampen #26 - Es war einmal....mkv
 |   |-- 20141205_Japanoschlampen EXTRA - Ein Zuhaus für Tiere.mkv
 |   |-- 20141211_Japanoschlampen EXTRA - Knuspa Fitness.mkv
+|   |-- 20141223_Japanoschlampen #26 - Es war einmal....mkv
 |   |-- 20150101_Japanoschlampen #27 - Chao ist (schon wieder) krank.mkv
+|   |-- 20150102_Japanoschlampen EXTRA - Knuspa Fitness.mkv
 |   |-- 20150207_Japanoschlampen #28 - Einkaufsbummel.mkv
+|   |-- 20150317_Japanoschlampen #27 - Chao ist (schon wieder) krank.mkv
 |   |-- 20150318_Japanoschlampen EXTRA - Ninja Shotgun Gemetzel 3.mkv
 |   |-- 20150507_Japanoschlampen - THE MOVIE #2 (Das ultragrausige Geheimnis der abgefuckthorrormäßigen Monsterstadt).mkv
+|   |-- 20150526_Japanoschlampen #28 - Einkaufsbummel.mkv
 |   |-- 20150608_Japanoschlampen EXTRA - Man.mkv
+|   |-- 20150629_Japanoschlampen - THE MOVIE #2 (Das ultragrausige Geheimnis der abgefuckthorrormäßigen Monsterstadt).mkv
 |   |-- 20151001_Japanoschlampen # 29 - Tanzball？.mkv
 |   |-- 20151001_Japanoschlampen EXTRA - DJ Spassspassspass.mkv
+|   |-- 20151002_Japanoschlampen # 29 - Tanzball？.mkv
+|   |-- 20151006_Japanoschlampen EXTRA - DJ Spassspassspass.mkv
+|   |-- 20151105_Die Japanoschlampen EXTRA ＂yumgum＂.mkv
 |   |-- 20151105_Japanoschlampen #30 - Ein Ring sie zu knechten.mkv
+|   |-- 20151124_Japanoschlampen #30 - Ein Ring sie zu knechten.mkv
 |   |-- 20151127_Japanoschlampen EXTRA - Yumgum.mkv
 |   |-- 20151204_Japanoschlampen #31 - Gute Miene zum bösen Spiel.mkv
 |   |-- 20160107_Japanoschlampen #32 - Chao's Berufung.mkv
+|   |-- 20160115_Japanoschlampen #31 - Gute Miene zum bösen Spiel.mkv
 |   |-- 20160205_Japanoschlampen #33 - Durch den Spiegel.mkv
 |   |-- 20160206_Japanoschlampen EXTRA - GedärmeGemetzelGirl.mkv
 |   |-- 20160303_Japanoschlampen - THE MOVIE #3 (Das intergalaktische Gruselrätsel auf der scheißschauerlichen Farm).mkv
+|   |-- 20160330_Japanoschlampen #32 - Chao's Berufung.mkv
 |   |-- 20160402_Japanoschlampen EXTRA - Beruf-o-mat.mkv
+|   |-- 20160726_Japanoschlampen #33 - Durch den Spiegel.mkv
+|   |-- 20160727_Japanoschlampen EXTRA - GedärmeGemetzelGirl.mkv
+|   |-- 20160923_Japanoschlampen - THE MOVIE #3 (Das intergalaktische Gruselrätsel auf der scheißschauerlichen Farm).mkv
 |   |-- 20171109_StarStarSpace #23⧸Japanoschlampen #34 - Die verschollene Episode.mkv
 |   |-- 20190328_Japanoschlampen #35 - Alte und neue Rivalen.mkv
+|   |-- 20190329_Japanoschlampen #35 - Alte und neue Rivalen.mkv
 |   |-- 20190620_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
+|   |-- 20190621_Japanoschlampen #36 - Das verfluchte Ferienheim.mkv
 |   |-- 20191129_Japanoschlampen #37 - Wo ist Puschi schon wieder？.mkv
 |   |-- 20200313_Japanoschlampen #38 - Das Straßenfest.mkv
 |   |-- 20200525_Japanoschlampen #39 - Die Vertretung.mkv
 |   |-- 20201002_Japanoschlampen #40 - Geisterstunde in der Schule.mkv
 |   |-- 20201030_Japanoschlampen #41 - Albtraum an Halloween.mkv
 |   |-- 20211001_Japanoschlampen #42 - Mysterium in der Bibliothek (Teil 1).mkv
-|   `-- 20211109_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
+|   |-- 20211109_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
+|   `-- 20211112_Japanoschlampen #43 - Mysterium in der Bibliothek (Teil 2).mkv
 |-- Kacke Übersetze Film⁄ Videosoiel-Titel
 |   |-- 20171120_Kacke übersetzte Filmtitel.mkv
 |   |-- 20180418_Kacke übersetzte Filmtitel #2.mkv
@@ -634,6 +717,7 @@
 |   |-- 20140829_gamescom 2o11 in Köln - Spezies YouTuber feat. Coldmirror.mkv
 |   |-- 20140927_Almost Daily #113： Im Talk mit Coldmirror.mkv
 |   |-- 20170629_coldmirror – SCHLAMPIG animieren (TINCON Berlin 2017).mkv
+|   |-- 20180526_Film Fights #5 mit Coldmirror & Jan.mkv
 |   |-- 20210307_COLDMIRROR über JKR, die HP Serie & den Lockdown!.mkv
 |   |-- 20210928_Erkennst DU den HARRY POTTER Charakter am ersten Satz!？ 😰 ｜ mit @coldmirror.mkv
 |   |-- 20220408_Coldmirror liebt diese Filme... und Alper dichtet dazu! ｜ Podcast.mkv
@@ -641,7 +725,6 @@
 |   |-- 20260624_Die harte Wahrheit über COLDMIRROR.mkv
 |   |-- Bevor Coldmirror berühmt wurde… - KURZBIOGRAPHIE.mp4
 |   |-- COLDMIRROR über HARRY POTTER & PHANTASTISCHE TIERWESEN.mp4
-|   |-- Coldmirror im Hater-Interview.mp4
 |   |-- Coldmirror_-_MEIN_LIEBLINGSFILM_der_letzten_10_Jahre_CSB_Adventskalender_4_1920x1080[01KXQNDFPDYAMH8JMA4MQ5XFMY].mp4
 |   |-- Coldmirror_-_Mein_HASSFILM_LIEBLINGSFILM_GUILTY_PLEASURE_Turchen_8_1920x1080[01KXMAC6J4WQ60G312V01W7WSE].mp4
 |   |-- Coldmirror： Ihre Lieblingsfilme, ihre Kindheit! (mit @coldmirror).mp4
@@ -655,12 +738,14 @@
 |   |-- Kleine_bescheuerte_Coldmirror-Parodie_mit_Coldmirror_Sketch_Plus_1920x1080[01KXM8AAT8RRFTJ041DH3Z81RS].mp4
 |   |-- Kritik_-_PHANTASTISCHE_TIERWESEN_2_-_GRINDELWALDS_VERBRECHEN_mit_Coldmirror_1920x1080[01KXMABNKW2WHRQB9W184K35ZC].mp4
 |   |-- Leben_als_Vorbild_Geld_verdienen_YouTube-Entwicklung_uvm._-_Coldmirror_im_Talk_3840x2160[01KXM9S69EER69SF4SMASJGP42].mp4
+|   |-- NA_Das Coldmirror Interview - jetzt für alle.mp3
 |   |-- REVANCHE_-_Erkennst_DU_den_HARRY_POTTER_Charakter_am_ersten_Satz_-_mit_@coldmirror_3840x2160[01KXM9MQEB8D2J4G1FP01WAA60].mp4
 |   |-- Reddit AMA 22.06.2026.txt
 |   |-- Selbstwertgefühl stärken mit Coldmirror!.mp4
 |   |-- TEIL_2_-_Wir_malen_NOCHMAL_Harry_Potter_SZENEN_mit_@coldmirror_3840x2160[01KXMA1BRCPRMPY0WJN4QZNFBJ].mp4
 |   |-- Wer_weiss_mehr_uber_KINDHEITSSERIEN_Alper_vs._@coldmirror_1920x1080[01KXMACQGV035PRDCQN9FZ7PFJ].mp4
-|   `-- Wie Geht's Weiter？! (mit Coldmirror).mp4
+|   |-- Wie Geht's Weiter？! (mit Coldmirror).mp4
+|   `-- archive.txt
 |-- Kunstanalyse
 |   |-- 20091216_Kunstwissenschaftliche Analyse - Fügung der Langeweile.mkv
 |   |-- 20121207_Kunstwissenschaftliche Analyse - Daniele Negroni.mkv
@@ -701,7 +786,6 @@
 |   |-- 20160607_Haukes Kunsttipps #9 - Sockenpuppe.mkv
 |   `-- 20160820_Haukes Date Tape.mkv
 |-- Let's Play
-|   |-- 20110812_Auletta - Make Love Work - YOU FM Live.mkv
 |   |-- 20130207_Kaddis Leben - Ein Let's Play mit Coldmirror.mkv
 |   |-- 20130404_RETARDZ - Ein Let's Play mit Coldmirror.mkv
 |   |-- 20130606_The Schlimms - Ein Let's Play mit Coldmirror.mkv
