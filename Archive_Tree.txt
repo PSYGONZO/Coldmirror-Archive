@@ -578,6 +578,29 @@
 |   |-- 20210312_Harry Potter und die Heiligtümer des Rasenmähers Teil 1.mkv
 |   `-- 20210326_Harry Potter und die Heiligtümer des Rasenmähers Teil 2.mkv
 |-- Interviews
+|   |-- New Folder
+|   |	|-- 20071022_coldmirror - Das Interview part2⧸2.mkv
+|   |	|-- 20090118_Interview mit Coldmirror im 2Radio Teil 4.mkv
+|   |	|-- 20100418_KEINE FRAGEN MEHR STELLEN! Coldmirror： Stellt ihr eure Fragen!.mkv
+|   |	|-- 20100521_Coldmirror： Selbstmord？ Ich war nah dran! - Das Interview.mp4
+|   |	|-- 20100522_Alkohol, Sex und Lügen - Coldmirror im Wortspiel KLICKVIDEO.mp4
+|   |	|-- 20100523_Coldmirror： Wie ne' Bitch lauf' ich doch nicht rum! - Fragenlotto.mp4
+|   |	|-- 20100525_Coldmirror： Das passiert in Zukunft auf meinem Kanal! Nutzerfrage.mkv
+|   |	|-- 20100526_Coldmirror： Hacken verboten! So schützt ihr eure Accounts!.mp4
+|   |	|-- 20100530_Coldmirror： Die verrückte Frage von LadyShihita!.mkv
+|   |	|-- 20100601_Coldmirror disst TruckTV;-) -Nutzerfrage.mkv
+|   |	|-- 20100602_Coldmirror und die Kotze in ihrem Gesicht - Nutzerfrage.mkv
+|   |	|-- 20100603_Coldmirror： Was ist Kunst？ Nutzerfrage.mkv
+|   |	|-- 20100605_Coldmirror： YouTube-Partner will ich nicht werden! - Nutzerfrage.mkv
+|   |	|-- 20100610_Coldmirror： Mein Freund ist der PC! - Nutzerfrage.mkv
+|   |	|-- 20100705_Coldmirror： Ich war antichristlich! - Nutzerfrage.mkv
+|   |	|-- 20100821_Coldmirror über das YouTuber-Treffen： Es war kuschelig!.mp4
+|   |	|-- 20100912_GamesCom 2010 mit DasMirko! PART 2.mkv
+|   |	|-- 20110602_coldmirror - Das Interview part1.mkv
+|   |	|-- 20120908_Coldmirror： RTL mit Eiern bewerfen! KurzTalk.mkv
+|   |	|-- 20120910_Coldmirror： Lebensfreude durch Pizza! Fragenlotto.mkv
+|   |	|-- 20120912_Freshaltefolie, Twilight, Darth Vader： Coldmirror im Wortspiel!.mkv
+|   |	`-- 20121024_Coldmirror： Sailor Moon verarsche ich jetzt!.mkv
 |   |-- 20090308_Coldmirror in das Wort zum Sonntag.mkv
 |   |-- 20090802_Das Coldmirror Interview am 18.01.09 auf 2radio.fm  PART 1.mkv
 |   |-- 20090802_Das Coldmirror Interview am 18.01.09 auf 2radio.fm PART 2.mkv
@@ -630,7 +653,8 @@
 |   |-- 20230315_Entenfight mit Coldmirror ｜ Hodenlose Frechheit #57.mkv
 |   |-- 20240313_Takeover mit Coldmirror- Warum roch Napoleon wie deine Oma, Ralph Caspers_.mp3
 |   |-- 20250000_Das Coldmirror Interview - jetzt für alle.mp3
-|   `-- archive.txt
+|   |-- 20250128_LostPodcast__Famillionaires--Tod in der Familie feat. coldmirror.mkv
+|   `-- archivez.txt
 |-- Japanoschlampen
 |   |-- 20111201_Die Japanoschlampen #1_Große Klopperei.mkv
 |   |-- 20120105_Japanoschlampen #2 - Familienbande.mkv
@@ -935,18 +959,15 @@
 |-- Synchros
 |   |-- Anne Will's Wissen
 |   |	|-- 20130501_Anne Will's Wissen.mkv
-|   |	|-- Anne Will's Wissen.txt
-|   |	`-- Hashes.txt
+|   |	`-- Anne Will's Wissen.txt
 |   |-- Back to the Future
 |   |	|-- 20121004_Zurück in deine Mudda - coldmirror Impro Synchro.mkv
 |   |	|-- Berrg turr durr Fjerterr.mp4
-|   |	|-- Berrg turr durr Fjerterr.txt
-|   |	`-- Hashes.txt
+|   |	`-- Berrg turr durr Fjerterr.txt
 |   |-- Der Zauberer von OZ - Die Dorothy Schlampe
 |   |	|-- 20121001_Wizard of Oz 'Die Dorothy Schlampe' - Coldmirror Impro Synchro.mkv
 |   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 2 - coldmirror Impro Synchro.mkv
-|   |	|-- 20130305_Wizard of Oz - Die Dorothy Schlampe 3 - coldmirror Impro Synchro.mkv
-|   |	`-- Hashes.txt
+|   |	`-- 20130305_Wizard of Oz - Die Dorothy Schlampe 3 - coldmirror Impro Synchro.mkv
 |   |-- Divers
 |   |	|-- 20110602_The Movies - Korridor der Verwirrung.mkv
 |   |	|-- 20110602_The Movies- Bis dass der Tod uns tötet.mkv
@@ -957,8 +978,7 @@
 |   |	|-- 20200425_DRAMA™.mkv
 |   |	`-- 20221222_💔.mkv
 |   |-- Fluch der Karibik
-|   |	|-- 20121001_Fluch der Karibik - Coldmirror Impro Synchro.mkv
-|   |	`-- Hashes.txt
+|   |	`-- 20121001_Fluch der Karibik - Coldmirror Impro Synchro.mkv
 |   |-- Hannibal
 |   |	|-- 20131004_Hannibal⧸Firlefanz.mkv
 |   |	|-- Dumme Hannibal Synchro.mp4
@@ -967,21 +987,15 @@
 |   |	|-- Hannibal - Entrée (Impro-Synchro mit Sönke und Kaddi).mp4
 |   |	|-- Hannibal - Po Tage und Zeeeuuuf (Impro-Synchro mit Sönke und Kaddi).mp4
 |   |	|-- Hannibal - Sorbet (Impro-Synchro mit Sönke und Kaddi).mp4
-|   |	|-- Hannibal_Firlefanz.txt
-|   |	`-- Hashes.txt
+|   |	`-- Hannibal_Firlefanz.txt
 |   |-- In 7 Tagen bist du tot
-|   |	|-- Hashes.txt
 |   |	`-- In 7 Tagen bist du tot.mp4
 |   |-- Kleine behinderte Avengers Synchro
-|   |	|-- Hashes.txt
 |   |	|-- Kleine behinderte Avengers Synchro.mp4
-|   |	|-- Kleine behinderte Avengers Synchro.txt
-|   |	`-- SHA256.sh
+|   |	`-- Kleine behinderte Avengers Synchro.txt
 |   |-- Lord Of The Rings - Gandalf der Penner
 |   |	|-- 20121005_HDR 'Elrond hat Geburtstag' - coldmirror Impro Synchro.mkv
-|   |	|-- Hashes.txt
-|   |	|-- Lord Of The Rings - Gandalf der Penner.mp4
-|   |	`-- SHA256.sh
+|   |	`-- Lord Of The Rings - Gandalf der Penner.mp4
 |   |-- Politiker
 |   |	|-- 20110706_Angie in Bremen - YOU FM Synchro mit Coldmirror.mkv
 |   |	|-- 20110804_Obama bei der Feuerwehr  - YOU FM Synchro mit Coldmirror.mkv
@@ -1025,15 +1039,12 @@
 |   |	|-- Obamas Rap-Konzert - YOU FM Synchro mit Coldmirror.mkv
 |   |	`-- Präsidenten Lifestyle - YOU FM Synchro mit Coldmirror.mkv
 |   |-- Potter pwnage
-|   |	|-- Hashes.txt
 |   |	|-- Potter pwnage.mp4
 |   |	`-- Potter pwnage.txt
 |   |-- Shitty Shitty Bang Bang
-|   |	|-- Hashes.txt
 |   |	`-- Shitty Shitty Bang Bang (Impro-Synchro).mp4
 |   |-- Star Trek
 |   |	|-- 20130516_Star Trek - Speck ist super.mkv
-|   |	|-- Hashes.txt
 |   |	|-- Star Trek - Speck ist super.txt
 |   |	`-- Star Trek Rentnerkreis (Impro-Synchro).mp4
 |   |-- Tatort
@@ -1044,7 +1055,6 @@
 |   |	|-- 20170321_Tatort Synchro - Funcamp.mkv
 |   |	`-- 20170404_Tatort Synchro - Logo Meeting.mkv
 |   `-- Unsinn und Sinnlosigkeit
-|	|-- Hashes.txt
 |	|-- Tatsächlich dumm (ZENSIERT ohne Titten).mp4
 |	|-- Unsinn und Sinnlosigkeit - Teil 1.mp4
 |	`-- Unsinn und Sinnlosigkeit - Teil 2.mp4
@@ -1059,6 +1069,102 @@
 |   |-- 20251219_TELEKADDI – Der Zauberer von Oz-Best.mkv
 |   |-- 20260220_TELEKADDI - GO GO Recycle Rangers!.mkv
 |   `-- 20260603_TELEKADDI – Was zum Mondstein？!.mkv
+|-- Videos mit Kaddi
+|   |-- 20070730_Harry Potter and the Deathly Knusperflocken.mkv
+|   |-- 20070905_Normi Potter und der Gefangene der Straßenbahn (1⧸2).mkv
+|   |-- 20070905_Normi Potter und der Gefangene der Straßenbahn (2⧸2).mkv
+|   |-- 20070929_Kunst Attacke!.mkv
+|   |-- 20080212_MIA. Interview - Dezember 2002.mkv
+|   |-- 20080317_Kaddi und Koko auf der Osterwiese.mkv
+|   |-- 20080425_Alter Aufruf, mir bei meiner Magisterarbeit über DASDING.tv zu helfen..mkv
+|   |-- 20080603_1440.mkv
+|   |-- 20080716_MixX in Berlin (Teil 1⧸2).mkv
+|   |-- 20080717_MixX in Berlin (Teil 2⧸2).mkv
+|   |-- 20081025_Leute aus dem Norden - CMC -Treffen.mkv
+|   |-- 20081125_Alte-Oma-Helf-Män (edit).mkv
+|   |-- 20090402_learnin' german.mkv
+|   |-- 20090529_Polysemia 10.mkv
+|   |-- 20090531_Polysemia Outtakes 4 (Folgen 8 -10).mkv
+|   |-- 20090715_789 - Gathering Trailer.mkv
+|   |-- 20090716_Alte-Oma-Helf-Män - DIRECTOR'S CUT.mkv
+|   |-- 20090716_Die Abenteuer der Prinzessin Tausendschön (1⧸2).mkv
+|   |-- 20090716_Die Abenteuer der Prinzessin Tausendschön (2⧸2).mkv
+|   |-- 20090716_Videobotschaft von Coldmirror an Anne.mkv
+|   |-- 20090717_Das ULTIMATIVE Coldmirror Fantreffen in Bremön!.mkv
+|   |-- 20090717_Kathrin als Boulevardjournalistin.mkv
+|   |-- 20090804_Frage der Woche： Sind Sie ＂sitt＂？.mkv
+|   |-- 20090814_World Gone Wild (REMASTERED).mkv
+|   |-- 20090820_Der Pullovermann - Von Coldmirror.mkv
+|   |-- 20090821_FradeWo： Wollen Sie mit uns spielen？.mkv
+|   |-- 20090828_Polysemia 15.mkv
+|   |-- 20090828_Super-Action-Power-Girls!.mkv
+|   |-- 20090918_Da hinten!.mkv
+|   |-- 20090925_Spielplatzing.mkv
+|   |-- 20090927_MixX-Trailer #1.mkv
+|   |-- 20090927_MixX-Trailer #2.mkv
+|   |-- 20090927_MixX-Trailer #3.mkv
+|   |-- 20091022_Wohin ist die Jugendkultur？ - 07 Telefonieren？ Watt'n datt'n？.mkv
+|   |-- 20091023_Normi Potter gegen den Stein der Weisen (REMASTERED).mkv
+|   |-- 20091023_Normi Potter und die Toilette des Schreckens (DIRECTOR'S CUT 1⧸2).mkv
+|   |-- 20091023_Normi Potter und die Toilette des Schreckens (DIRECTOR'S CUT 2⧸2).mkv
+|   |-- 20091215_FradeWo： ＂Wie steht's mit Ihrem Allgemeinwissen？.mkv
+|   |-- 20100108_Auf der Jagd.mkv
+|   |-- 20100115_Der unerklärliche Sketch über zwei Typen.mkv
+|   |-- 20100210_Coldmirror-Fantreffen in Bremen am 17.10.09 - Der Fresh D Freestyle-Rap.mkv
+|   |-- 20100219_Das Plärr Witch Projekt.mkv
+|   |-- 20100225_Kakao backen [mit Bob!] und Gästen!.mkv
+|   |-- 20100225_ZU HART FÜR DEUTSCHLAND.mkv
+|   |-- 20100308_OUTTAKES + ＂Wo ist Herbert＂ (Das Spiel).mkv
+|   |-- 20100311_MixX - The Motion Picture.mkv
+|   |-- 20100409_Lilienthal Inside.mkv
+|   |-- 20100507_FradeWo： ....mkv
+|   |-- 20100514_Der Schuldensketch.mkv
+|   |-- 20100605_(feat. COLDMIRROR) Babel Fish Theater： Quervater und der Kuchen des Marmors.mkv
+|   |-- 20100610_Polysemia 29.mkv
+|   |-- 20100813_MixX II - The Awakening.mkv
+|   |-- 20100823_Neulich in Köln.. (Gamescom 2010).mkv
+|   |-- 20100825_Neulich in der Grundschule....mkv
+|   |-- 20100827_Wohin ist die Jugendkultur？ - 17 Treue bis die Möwe stirbt.mkv
+|   |-- 20100910_Schulbräuche.mkv
+|   |-- 20101001_Mit Kohlensäure kriegt man Dinge.mkv
+|   |-- 20101104_Kunst Attacke! (Re-Up).mkv
+|   |-- 20101115_Polysemia 20.mkv
+|   |-- 20101122_Re-Upload： 1000 Abonnenten Special feat. Coldmirror + lamer Bonus.mkv
+|   |-- 20101126_FradeWo： ＂Brauchen Sie Hilfe？＂.mkv
+|   |-- 20101129_MixX-Trailer #6.mkv
+|   |-- 20101129_MixX-Trailer #7.mkv
+|   |-- 20110121_Schokolade des Grauens.mkv
+|   |-- 20110204_Die Gangster-Bar.mkv
+|   |-- 20110311_The MixXbournes.mkv
+|   |-- 20110401_Ubuntu： Bildschirmhintergrund ändern.mkv
+|   |-- 20110408_Kaddi und Koko im Space Center (UNCUT VERSION).mkv
+|   |-- 20110415_Die Herrin der Ringe 2 - Die zwei Hirne.mkv
+|   |-- 20110420_Kaddi & Koko auf der Osterwiese (Re-Up).mkv
+|   |-- 20110624_Romeo & nicht ganz Julia.mkv
+|   |-- 20110712_Die Abenteuer der Prinzessin Tausendschön (Teil 1⧸2 - 2. Re-Up).mkv
+|   |-- 20110812_aeqvitas - Stamm Rein (Original Song).mkv
+|   |-- 20110902_MixX - Ein sehr Entertaining Trailer.mkv
+|   |-- 20110902_Trailer #9.mkv
+|   |-- 20110902_Trailer #10.mkv
+|   |-- 20111111_Kaddi & Koko auf der Breminale (Re-Up).mkv
+|   |-- 20111202_Extreme Nikolausing TERROR (Re-Up).mkv
+|   |-- 20111206_Tommy Finke + Miniband： ROBERT SMITH IN MEINER KNEIPE [Offizielles Musikvideo].mkv
+|   |-- 20120727_Lesung： NORMI POTTER UND DER HARTPLASTIKKELCH.mkv
+|   |-- 20120810_Woran denken Sie？ Warum hier Stroh liegt..mkv
+|   |-- 20120810_Woran denken Sie？ Wie ich ausseh!.mkv
+|   |-- 20120810_Woran denken Sie？ Ähm.. also... äh....mkv
+|   |-- 20120817_Woran denken Sie？ An Schutzgeld. Von Ihnen! VIEL!!!.mkv
+|   |-- 20120817_Woran denken Sie？ An die Zukunft!.mkv
+|   |-- 20120817_Woran denken Sie？ Ha-HAAAA!.mkv
+|   |-- 20120817_Woran denken Sie？ Haaaaaaaare schneiden!.mkv
+|   |-- 20120907_Woran denken Sie？ Ans Ende..mkv
+|   |-- 20120907_Woran denken Sie？ Höhööööö!.mkv
+|   |-- 20120907_Woran denken Sie？ Wie schlau ich bin..mkv
+|   |-- 20120914_Woran schenken Sie... DENKEN- äh... OUTTAKES!.mkv
+|   |-- 20121102_Partnersuche (REMASTERED).mkv
+|   |-- 20170507_Die Hamptons： Origins (HD).mkv
+|   |-- 20181231_Coldmirror - Das Hörspiel：  Der Raub [HD].mkv
+|   `-- 20190104_Coldmirror - Das Hörspiel： ObsCure Reloaded [HD].mkv
 |-- WIWA
 |   |-- 20140929_Harry Potter und der Plastikpokal Teil 7 Trailer.mkv
 |   |-- 20140929_MCV vs. Harry P [WiWa Music Video].mkv
