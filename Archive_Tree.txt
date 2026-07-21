@@ -1063,7 +1063,7 @@
 |	|-- Unsinn und Sinnlosigkeit - Teil 2.jpg
 |	|-- Unsinn und Sinnlosigkeit - Teil 2.mp4
 |	`-- Unsinn und Sinnlosigkeit - Teil 2_thumb.jpg
-|-- Tele Kaddi
+|-- TeleKaddi
 |   |-- 20241029_TELEKADDI – Ah, Oh, Stress im Teletubbyland_nexx_2008481.mkv
 |   |-- 20241111_TELEKADDI – Creepypasta statt Krabbenburger_nexx_2011465.mkv
 |   |-- 20241223_TELEKADDI – Kaddi allein zu Haus_funk-telekaddi--kaddi-allein-zu-haus-106.mkv
@@ -1074,17 +1074,6 @@
 |   |-- 20251219_TELEKADDI – Der Zauberer von Oz-Best_nexx_2117943.mkv
 |   |-- 20260220_TELEKADDI - GO GO Recycle Rangers!_nexx_2139582.mkv
 |   `-- 20260603_TELEKADDI – Was zum Mondstein？!_nexx_2193547.mkv
-|-- TeleKaddi
-|   |-- 20241029_TELEKADDI – Ah, Oh, Stress im Teletubbyland.mkv
-|   |-- 20241111_TELEKADDI – Creepypasta statt Krabbenburger.mkv
-|   |-- 20241223_TELEKADDI – Kaddi allein zu Haus.mkv
-|   |-- 20250227_TELEKADDI – Pokéboobs.mkv
-|   |-- 20250625_TELEKADDI – Latexdinos und große Eier.mkv
-|   |-- 20250716_TELEKADDI - Darkwing Crush.mkv
-|   |-- 20251028_TELEKADDI - Gänsehaut, Geistermaske und ein (Grab)Stine.mkv
-|   |-- 20251219_TELEKADDI – Der Zauberer von Oz-Best.mkv
-|   |-- 20260220_TELEKADDI - GO GO Recycle Rangers!.mkv
-|   `-- 20260603_TELEKADDI – Was zum Mondstein？!.mkv
 |-- Videos mit Kaddi
 |   |-- 20070730_Harry Potter and the Deathly Knusperflocken.mkv
 |   |-- 20070905_Normi Potter und der Gefangene der Straßenbahn (1⧸2).mkv
