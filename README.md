@@ -1,1 +1,1 @@
-Archiv für gesammelte Bewegtbildproduktionen von und mit Katrin Fricke AKA Coldmirror.
+Archiv für gesammelte Produktionen von und mit Katrin Fricke AKA Coldmirror.
